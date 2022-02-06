@@ -25,22 +25,31 @@ Here are sites where my colleagues and I have developed field research projects.
 
 ```{r leaflet, echo=FALSE}
 
-df <- read.csv(textConnection(
-"Name,Lat,Long,
-Conecuh National Forest, 34.597131,-89.000,
-Yunnan China, 22.000, 100.8000,
-Lower Canyons TX, 29.633241, -102.74,
-Painter Gap GA, 34.799517, -84.576,
-Spring Creek GA, 30.937477, -84.7426,
-Mobile Bay AL, 30.868031, -87.9411,
-La Selva Biological Station, 10.425307, -84.017,
-Palo Verde Biological Station, 10.296803, -85.273"
+Name = c("Conecuh National Forest, Alabama","Yunnan Province, China","Lower Canyons of the Rio Grande","Blue Ridge Mountains","Spring Creek, Georgia","La Selva Biological Station, Costa Rica","Conger Mountain, Utah")
+
+Topic = c("Field studies of Gopher Tortoise survival and population genetic structure","Biodiversity surveys of reptiles and bats in karst caves","Formative wilderness adventure","Phylogenetic studies of salamanders","Demographic studies of Alligator Snapping Turtles","Field studies and experimental manipulations of frog and lizard population regulation","Feral horse demographic research")
+
+coords <- read.csv(textConnection(
+"Lat,Long, 
+31.126,-86.753, 
+22.000, 100.8000,
+29.633241, -102.74,
+34.799517, -84.576,
+30.937477, -84.7426,
+10.425307, -84.017,
+39.232, -113.699"
 ))
 
-leaflet(df) %>% addTiles() %>%
-  addMarkers(~Long, ~Lat, popup = ~htmlEscape(Name)) %>%
-  addProviderTiles(providers$OpenMapSurfer.Roads)
+df = cbind(Name,Topic,coords)
 
+labs <- lapply(seq(nrow(df)), function(i) {
+  paste0( '<p>', df[i, "Name"], '<p></p>', 
+          df[i, "Topic"]) 
+})
+
+leaflet(df) %>% addTiles() %>%
+  addMarkers(~Long, ~Lat, label = lapply(labs, htmltools::HTML)) %>%
+  addProviderTiles(providers$OpenMapSurfer.Roads)
 ```
 
 Here are videos from some favorite field excursions - for research or just for fun.  

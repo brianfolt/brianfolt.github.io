@@ -25,7 +25,7 @@ My research program explores the field of population ecology from fundamental an
 <div class="collapse" id="popeco">
 <img src="images/hypothetical-model.png" style="width:40%; margin-left: 15px" align="right">
 
-In general, I am interested in understanding how intrinsic and extrinsic factors influence population growth and regulation of wild animal populations. For my dissertation, I tested and integrated hypotheses describing bottom-up (food resources), top-down (predators), and parallel (intraspecific interactions) population regulation of a model frog and lizard assemblage at La Selva Biological Station, Costa Rica. [Project description](https://www.researchgate.net/project/Population-and-community-ecology-in-Neotropical-forests)
+In general, I am interested in understanding how intrinsic and extrinsic factors influence population growth and regulation of wild animal populations. For my dissertation, I tested and integrated hypotheses describing bottom-up (food resources), top-down (predators), and parallel (intraspecific interactions) population regulation of a model frog and lizard assemblage at La Selva Biological Station, Costa Rica. I am now building an integrated population model for feral horses to understand how population density and annual environmental variation influence population dynamics of horse populations across the American West. [Project description](https://www.researchgate.net/project/Population-and-community-ecology-in-Neotropical-forests)
 
   - [Top-down vs. bottom-up regulation of terrestrial vertebrates](files/folt-and-guyer-2021-spiders.pdf)
   
@@ -35,6 +35,8 @@ In general, I am interested in understanding how intrinsic and extrinsic factors
   
   - [Habitat-driven community assembly of glassfrogs](files/rivera-folt-2018-glassfrogs.pdf)
 </div>
+
+ - Integrated population model of feral horses (in preparation)
 
 <div class="expand collapsed" data-toggle="collapse" data-target="#conservation" aria-expanded="false" aria-controls="conservation">
 ## 2) Decision-support science
@@ -50,7 +52,7 @@ I also conduct research that has strong applications for wildlife management and
 
   - [Population demographics of Alligator Snapping Turtles in an unharvested reference population](files/folt-et-al-2016-macrochelys.pdf)
     
-  - Using Population Models to Guide Management of Wild Horses (in review)
+  - Multi-objective population modeling as a decision-support tool for feral horse management (accepted pending revision)
   
   - [The importance of decision context in population viability analysis](files/lawson-et-al-2021-conbio.pdf)
 </div>
@@ -70,7 +72,7 @@ Habitat fragmentation in the Anthropocene has drastically reshaped natural lands
   
   - [Phylogenomics of plethodontid salamanders](files/folt-et-al-2016-mpe.pdf)
   
-  - Effects of habitat fragmentation on population genetics of Gopher Tortoises (in prep)
+  - Effects of habitat fragmentation on population genetics of Gopher Tortoises (in preparation)
 </div>
   
   

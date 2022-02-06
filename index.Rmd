@@ -23,6 +23,6 @@ I am a population ecologist and wildlife biologist who is interested in supporti
 
 I am now an ecologist for the [U.S. Geological Survey](https://www.usgs.gov/) at the [Fort Collins Science Center](https://www.usgs.gov/centers/fort), where I am currently building models to support management decisions for free-roaming horse populations in the western United States. 
 
-On this site, you can learn about my [research](https://brianfolt.github.io/research) and [teaching](https://brianfolt.github.io/teaching) background, where I conduct [field research projects](https://brianfolt.github.io/fieldwork), and the resulting [publications](https://brianfolt.github.io/publications). Last, I hope to highlight various other [musings, philosophies, and life experiences](https://brianfolt.github.io/musings) with periodic blog posts.
+On this site, you can learn about my [research](https://brianfolt.github.io/research) program, where I conduct [field research projects](https://brianfolt.github.io/fieldwork), the resulting [publications](https://brianfolt.github.io/publications), and my [teaching](https://brianfolt.github.io/teaching) experience. Last, I hope to sporadically highlight various other [musings and life experiences](https://brianfolt.github.io/musings) with periodic blog posts.
 
 You can contact me at: bfolt [at] usgs [dot] gov.
