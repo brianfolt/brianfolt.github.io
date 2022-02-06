@@ -34,9 +34,9 @@ In general, I am interested in understanding how intrinsic and extrinsic factors
   - Bottom-up regulation of frogs and lizards (the litter-mosaic hypothesis; in revision)
   
   - [Habitat-driven community assembly of glassfrogs](files/rivera-folt-2018-glassfrogs.pdf)
+  
+   - Integrated population model of feral horses (in preparation)
 </div>
-
- - Integrated population model of feral horses (in preparation)
 
 <div class="expand collapsed" data-toggle="collapse" data-target="#conservation" aria-expanded="false" aria-controls="conservation">
 ## 2) Decision-support science
