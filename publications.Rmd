@@ -22,11 +22,11 @@ Below are my publications and PDF reprints, and here is a link to my [Google Sch
 
 <img src="images/horses_cropped.JPG" style="width:20%; border:1px solid; margin-left: 15px" align="right">
 
-**B Folt**, M Marshall, JA Emmanuel, M Dziadzio, J Cooke, L Mena, M Hinderlichter, S Hoffman, N Rankin, J Tupy, CP McGowan. Using predictions from multiple anthropogenic stressors to estimate future population conditions of an imperiled species. In revision 
-
 ### <u>2022</u>
 
-[23] **B Folt**, K Schoenecker, K Kraska, S Boyles Griffin, C Carlisle, LS Ekernas. Accepted pending revision. Multi-objective modeling as a decision-support tool for horse management. *Human-Wildlife Interactions*.
+[24] **B Folt**, M Marshall, JA Emmanuel, M Dziadzio, J Cooke, L Mena, M Hinderlichter, S Hoffman, N Rankin, J Tupy, CP McGowan. Accepted pending minor revisions. Using predictions from multiple anthropogenic stressors to estimate future population conditions of an imperiled species. *Global Ecology and Conservation*.
+
+[23] **B Folt**, K Schoenecker, K Kraska, S Boyles Griffin, C Carlisle, LS Ekernas. Accepted pending revision. Multi-objective modeling as a decision-support tool for feral horse management. *Human-Wildlife Interactions*.
 
 ### <u>2021</u>
 
