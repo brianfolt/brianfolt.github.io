@@ -24,9 +24,9 @@ Below are my publications and PDF reprints, and here is a link to my [Google Sch
 
 ### <u>2022</u>
 
-[24] **B Folt**, LS Ekernas, K Schoenecker. Accepted pending revision. Multi-objective modeling as a decision-support tool for feral horse management. *Human-Wildlife Interactions*.
+[24] **B Folt**, LS Ekernas, K Schoenecker. In revision. Multi-objective modeling as a decision-support tool for feral horse management. *Human-Wildlife Interactions*.
 
-[23] **B Folt**, M Marshall, JA Emmanuel, M Dziadzio, J Cooke, L Mena, M Hinderlichter, S Hoffman, N Rankin, J Tupy, CP McGowan. Accepted pending revision. Using predictions from multiple anthropogenic stressors to estimate future population conditions of an imperiled species. *Global Ecology and Conservation*.
+[23] **B Folt**, M Marshall, JA Emmanuel, M Dziadzio, J Cooke, L Mena, M Hinderlichter, S Hoffman, N Rankin, J Tupy, CP McGowan (2022). Using predictions from multiple anthropogenic stressors to estimate future population conditions of an imperiled species. *Global Ecology and Conservation*, in press. [DOI](https://doi.org/10.1016/j.gecco.2022.e02143) 
 
 ### <u>2021</u>
 
@@ -143,4 +143,3 @@ SC Sterrett, JB Jensen, **B Folt** (2014). *Graptemys barbouri* (Barbour’s Map
 **B Folt** (2019). Op-ed: “Indigo Snake Releases are Guided by Strong Science and Conservation Ethic.” *The Tallahassee Democrat*. [Link](https://www.tallahassee.com/story/opinion/2019/03/31/indigo-snake-releases-guided-strong-science-conservation-ethic/3313120002/)
 
 **B Folt** (2014). Alligator Snapping Turtles: Ecology and Mythology in Alabama. *Alabama Wildlife Magazine*, July 2014. 44 pp. Article featured with cover photograph.
-
