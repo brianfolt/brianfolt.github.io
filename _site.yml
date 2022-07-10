@@ -12,9 +12,7 @@ navbar:
     - text: "Fieldwork"
       href: fieldwork.html
     - text: "Publications"
-      href: publications.html    
-    - text: "Musings"
-      href: musings.html
+      href: publications.html
   right: 
     - icon: fab fa-google fa-lg
       href: https://scholar.google.com/citations?hl=en&user=wYb92bAAAAAJ
