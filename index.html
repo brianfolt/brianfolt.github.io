@@ -11,10 +11,10 @@
 
 
 
-<title>index.utf8</title>
+<title>index.knit</title>
 
-<script src="site_libs/header-attrs-2.7/header-attrs.js"></script>
-<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/paper.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
@@ -59,6 +59,7 @@ if (window.hljs) {
 
 
 
+
 <link rel="stylesheet" href="styles.css" type="text/css" />
 
 
@@ -83,6 +84,9 @@ button.code-folding-btn:focus {
 }
 summary {
   display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
 }
 pre code {
   padding: 0;
@@ -235,7 +239,7 @@ $(document).ready(function () {
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -258,9 +262,6 @@ $(document).ready(function () {
 </li>
 <li>
   <a href="publications.html">Publications</a>
-</li>
-<li>
-  <a href="musings.html">Musings</a>
 </li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
@@ -301,8 +302,6 @@ $(document).ready(function () {
 </div>
 
 
-<div id="section" class="section level2">
-<h2>—</h2>
 <p><link rel="stylesheet" href="styles.css" type="text/css"></p>
 <style type="text/css">
 body{ /* Normal  */ font-size: 16px; font-family: Arial; color:black}
@@ -315,15 +314,43 @@ code.r{ /* Code block */ font-size: 12px;}
 pre { /* Code block - determines code spacing between lines */ font-size: 14px;}
 </style>
 <p><img src="images/me_amphiuma_2012.jpg" style="width:30%; border:2px solid; margin-right: 20px" align="left"></p>
-</div>
 <div id="brian-folt-phd" class="section level1">
 <h1>Brian Folt, PhD</h1>
 </div>
-<div id="wildlife-biology-quantitative-population-ecology-and-decision-analysis" class="section level1">
-<h1>Wildlife Biology, Quantitative Population Ecology, and Decision Analysis</h1>
-<p>I am a population ecologist and wildlife biologist who is interested in supporting smart decisions about natural resource management. I combine field research, quantitative modeling skills, and a structured-decision making toolkit to understand system dynamics and guide wildlife management in a transparent and inclusive framework. I have a B.S. in <a href="https://www.ohio.edu/cas/biology">Biological Sciences from Ohio University</a> (2011), a Ph.D. in <a href="http://www.auburn.edu/cosam/departments/biology/">Ecology from Auburn University</a> (2017), and post-doctoral experience from the Alabama and Florida Cooperative Fish and Wildlife Research Units at <a href="https://www1.usgs.gov/coopunits/unit/Alabama">Auburn University</a> and the <a href="https://wec.ifas.ufl.edu/coop/">University of Florida</a>.</p>
-<p>I am now an ecologist for the <a href="https://www.usgs.gov/">U.S. Geological Survey</a> at the <a href="https://www.usgs.gov/centers/fort">Fort Collins Science Center</a>, where I am currently building models to support management decisions for free-roaming horse populations in the western United States.</p>
-<p>On this site, you can learn about my <a href="https://brianfolt.github.io/research">research</a> program, where I conduct <a href="https://brianfolt.github.io/fieldwork">field research projects</a>, the resulting <a href="https://brianfolt.github.io/publications">publications</a>, and my <a href="https://brianfolt.github.io/teaching">teaching</a> experience. Last, I hope to sporadically highlight various other <a href="https://brianfolt.github.io/musings">musings and life experiences</a> with periodic blog posts.</p>
+<div id="wildlife-biologist-quantitative-ecologist-and-decision-analyst"
+class="section level1">
+<h1>Wildlife Biologist, Quantitative Ecologist, and Decision
+Analyst</h1>
+<p>I am a quantitative ecologist and wildlife biologist who is
+interested in supporting smart decisions about natural resource
+management. I combine field research, quantitative skills, and a
+structured-decision making skillset to understand system dynamics and
+guide wildlife management decisions in a transparent and inclusive
+framework. I have a B.S. in <a
+href="https://www.ohio.edu/cas/biology">Biological Sciences from Ohio
+University</a> (2011), a Ph.D. in <a
+href="http://www.auburn.edu/cosam/departments/biology/">Ecology from
+Auburn University</a> (2017), and post-doctoral experience from the
+Alabama and Florida Cooperative Fish and Wildlife Research Units at <a
+href="https://www1.usgs.gov/coopunits/unit/Alabama">Auburn
+University</a> and the <a
+href="https://wec.ifas.ufl.edu/coop/">University of Florida</a>.</p>
+<p>I am now an ecologist for the <a href="https://www.usgs.gov/">U.S.
+Geological Survey</a> at the <a
+href="https://www.usgs.gov/centers/fort">Fort Collins Science
+Center</a>, where I am building tools to support management decisions
+for feral horse populations (i.e., ‘wild horses’) in the United States.
+I recently developed <a
+href="https://rconnect.usgs.gov/popEquus/"><em>PopEquus</em></a>, a
+modeling application that can be used to understand trade-offs in feral
+horse population management. We hope to make <em>PopEquus</em> available
+to the public by October 2022, but please contact me if you would like
+to use it sooner.</p>
+<p>On this site, you can learn about my <a
+href="https://brianfolt.github.io/research">work interests</a>, where I
+do <a href="https://brianfolt.github.io/fieldwork">field work</a>, and
+resulting <a href="https://brianfolt.github.io/publications">products
+and publications</a>.</p>
 <p>You can contact me at: bfolt [at] usgs [dot] gov.</p>
 </div>
 
