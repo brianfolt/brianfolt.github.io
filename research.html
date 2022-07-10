@@ -11,10 +11,10 @@
 
 
 
-<title>research.utf8</title>
+<title>research.knit</title>
 
-<script src="site_libs/header-attrs-2.7/header-attrs.js"></script>
-<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/paper.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
@@ -59,6 +59,7 @@ if (window.hljs) {
 
 
 
+
 <link rel="stylesheet" href="styles.css" type="text/css" />
 
 
@@ -83,6 +84,9 @@ button.code-folding-btn:focus {
 }
 summary {
   display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
 }
 pre code {
   padding: 0;
@@ -235,12 +239,12 @@ $(document).ready(function () {
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="index.html">Brian Folt</a>
+      <a class="navbar-brand" href="index.html">Brian Folt, Ph.D.</a>
     </div>
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
@@ -254,13 +258,10 @@ $(document).ready(function () {
   <a href="teaching.html">Teaching</a>
 </li>
 <li>
-  <a href="fieldwork.html">Fieldwork</a>
+  <a href="locations.html">Locations</a>
 </li>
 <li>
   <a href="publications.html">Publications</a>
-</li>
-<li>
-  <a href="musings.html">Musings</a>
 </li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
@@ -301,8 +302,6 @@ $(document).ready(function () {
 </div>
 
 
-<div id="section" class="section level2">
-<h2>—</h2>
 <p><link rel="stylesheet" href="styles.css" type="text/css"></p>
 <style type="text/css">
 body{ /* Normal  */ font-size: 16px; font-family: Arial; color:black}
@@ -314,50 +313,117 @@ h3 { /* Header 3 */ font-size: 18px; color: Black;}
 code.r{ /* Code block */ font-size: 12px;}
 pre { /* Code block - determines code spacing between lines */ font-size: 14px;}
 </style>
-</div>
-<div id="research" class="section level1">
-<h1>Research</h1>
-<p>My research program explores the field of population ecology from fundamental and applied perspectives. I conduct fundamental research that involves developing and testing hypotheses about the way populations function, and then I conduct applied research that evaluates how management can maximize important societal values. In particular, I use decision analysis tools, such as structured decision making, to produce research that support strong decisions in natural resource management. <strong>Click on the headers</strong> below to learn more about areas of my research and see examples of research products. I also include links to more detailed descriptions on my <a href="https://www.researchgate.net/profile/Brian_Folt">ResearchGate</a> profile. Also, check out my <a href="https://brianfolt.github.io/fieldwork">fieldwork</a> page for a map of study sites, pictures, and videos from the research projects in the field and lab.</p>
-<div id="population-ecology" class="section level2 expand collapsed" data-toggle="collapse" data-target="#popeco" aria-expanded="false" aria-controls="popeco">
-<h2>1) Population ecology</h2>
+<p><img src="images/me_amphiuma_2012.jpg" style="width:25%; border:1px solid; margin-left: 15px" align="right"></p>
+<p>I study populations of animals from fundamental and applied
+perspectives. I conduct fundamental research that develops and tests
+hypotheses about how populations function, and then I work to understand
+how populations can be managed in ways that maximize important societal
+values, such as the preventing species extinction, maximizing ecosystem
+health, and reducing management cost. However, decision makers in
+natural resource management often are faced with complex decisions with
+great uncertainty. To help navigate difficult decisions, I use decision
+analysis tools, such as structured decision making and predictive
+modeling, to work with decision makers and help them understand
+problems, objectives, alternatives, and important trade-offs in the
+decision. I often build problem-solving tools and applications that can,
+for example, model the ability of alternatives to achieve different
+objectives during decisions.</p>
+<p>Click on the bold topics below to learn more about my work interests
+and see examples of products. I also include links to more detailed
+descriptions on my <a
+href="https://www.researchgate.net/profile/Brian_Folt">ResearchGate</a>
+profile. Also, check out my <a
+href="https://brianfolt.github.io/fieldwork">fieldwork</a> page for a
+map of study sites, pictures, and videos from the research projects in
+the field and lab.</p>
+<div id="population-ecology" class="section level3 expand collapsed"
+data-toggle="collapse" data-target="#popeco" aria-expanded="false"
+aria-controls="popeco">
+<h3><strong>Population ecology</strong></h3>
 </div>
 <div id="popeco" class="collapse">
 <p><img src="images/hypothetical-model.png" style="width:40%; margin-left: 15px" align="right"></p>
-<p>In general, I am interested in understanding how intrinsic and extrinsic factors influence population growth and regulation of wild animal populations. For my dissertation, I tested and integrated hypotheses describing bottom-up (food resources), top-down (predators), and parallel (intraspecific interactions) population regulation of a model frog and lizard assemblage at La Selva Biological Station, Costa Rica. I am now building an integrated population model for feral horses to understand how population density and annual environmental variation influence population dynamics of horse populations across the American West. <a href="https://www.researchgate.net/project/Population-and-community-ecology-in-Neotropical-forests">Project description</a></p>
+<p>In general, I am interested in understanding how intrinsic and
+extrinsic factors influence population growth and regulation of wild
+animal populations. For my Ph.D, I tested hypotheses describing how food
+resources, predators, and interspecific interactions regulated a model
+frog and lizard assemblage at La Selva Biological Station, Costa Rica.
+As a post-doc, I studied how disturbance influenced habitat structure
+and population dynamics of gopher tortoises. I am building an integrated
+population model to assess how environmental variation influences
+survival, reproduction, and population dynamics of feral horse
+populations across the American West.</p>
 <ul>
-<li><p><a href="files/folt-and-guyer-2021-spiders.pdf">Top-down vs. bottom-up regulation of terrestrial vertebrates</a></p></li>
-<li><p><a href="https://onlinelibrary.wiley.com/doi/epdf/10.1002/ece3.3748">Conspecific attraction of poison frogs</a> in tropical forests</p></li>
-<li><p>Bottom-up regulation of frogs and lizards (the litter-mosaic hypothesis; in revision)</p></li>
-<li><p><a href="files/rivera-folt-2018-glassfrogs.pdf">Habitat-driven community assembly of glassfrogs</a></p></li>
-<li><p>Integrated population model of feral horses (in preparation)</p></li>
+<li><p><a href="files/folt-and-guyer-2021-spiders.pdf">Top-down
+vs. bottom-up regulation of terrestrial vertebrates</a></p></li>
+<li><p><a
+href="https://onlinelibrary.wiley.com/doi/epdf/10.1002/ece3.3748">Conspecific
+attraction of poison frogs</a> in tropical forests</p></li>
+<li><p>Bottom-up regulation of frogs and lizards (the litter-mosaic
+hypothesis; in revision)</p></li>
+<li><p><a href="files/files/folt-et-al-2021-jwm.pdf">Estimating
+demography and projecting population viability of Gopher
+Tortoises</a></p></li>
+<li><p><a href="files/rivera-folt-2018-glassfrogs.pdf">Habitat-driven
+community assembly of glassfrogs</a></p></li>
+<li><p>Integrated population model of feral horses (in
+preparation)</p></li>
 </ul>
 </div>
-<div id="decision-support-science" class="section level2 expand collapsed" data-toggle="collapse" data-target="#conservation" aria-expanded="false" aria-controls="conservation">
-<h2>2) Decision-support science</h2>
+<div id="decision-support-science"
+class="section level3 expand collapsed" data-toggle="collapse"
+data-target="#conservation" aria-expanded="false"
+aria-controls="conservation">
+<h3><strong>Decision-support science</strong></h3>
 </div>
 <div id="conservation" class="collapse">
-<p><img src="images/indigos.jpg" style="width:40%; margin-left: 15px" align="right"> I also conduct research that has strong applications for wildlife management and conservation. I use field studies to understand factors influencing demographic vital rates of species, and then I build mathematical models of populations that can be used to evaluate how management plans influence population growth and population persistence of species. I use the process of optimization to evaluate how different management strategies achieve fundamental objectives (e.g., population viability) while minimizing limiting constraints (e.g., cost). In particular, I often study populations of imperiled vertebrates that are currently listed or being petitioned for listing under the federal Endangered Species Act (ESA). This research seeks to support strong decision-making processes to conserve imperiled species while operating under real-world scenarios, such as limited budgets. <a href="https://www.researchgate.net/project/Applied-population-modeling-of-imperiled-vertebrates">Project description</a></p>
+<p><img src="images/indigos.jpg" style="width:40%; margin-left: 15px" align="right">
+I conduct research that has strong applications for wildlife management
+and conservation. I use field studies to understand factors influencing
+demographic vital rates of species, and then I build mathematical models
+of populations that can be used to evaluate how management alternatives
+influence population persistence of imperiled species, management costs,
+and other values-based objectives. In particular, I often study
+populations of imperiled vertebrates that are currently listed or being
+petitioned for listing under the federal Endangered Species Act (ESA),
+so that research can be used to support meaningful conservation
+decisions.</p>
 <ul>
-<li><p><a href="files/folt-et-al-2019-animal-conservation.pdf">Modeling reintroduction scenarios and successes for the federally-threatened Eastern Indigo Snakes</a></p></li>
-<li><p><a href="files/files/folt-et-al-2021-jwm.pdf">Estimating demography and projecting population viability of Gopher Tortoises</a></p></li>
-<li><p><a href="files/folt-et-al-2016-macrochelys.pdf">Population demographics of Alligator Snapping Turtles in an unharvested reference population</a></p></li>
-<li><p>Multi-objective population modeling as a decision-support tool for feral horse management (accepted pending revision)</p></li>
-<li><p><a href="files/lawson-et-al-2021-conbio.pdf">The importance of decision context in population viability analysis</a></p></li>
+<li><p><a href="files/files/folt-et-al-2022-tortoise-pva.pdf">Predicting
+population persistence of gopher tortoises will be influenced by diverse
+anthropogenic stressors</a></p></li>
+<li><p><a href="files/folt-et-al-2019-animal-conservation.pdf">Modeling
+reintroduction scenarios and successes for the federally-threatened
+Eastern Indigo Snakes</a></p>
+<ul>
+<li><p><a href="files/folt-et-al-2019-plos-one.pdf">Population genetic
+structure of the federally-listed Eastern Indigo Snakes</a>
+(<i>Drymarchon couperi</i>)</p></li>
+<li><p>Effects of habitat fragmentation on population genetics of Gopher
+Tortoises (in preparation)</p></li>
+</ul></li>
 </ul>
 </div>
-<div id="molecular-ecology" class="section level2 expand collapsed" data-toggle="collapse" data-target="#molecularecology" aria-expanded="false" aria-controls="molecularecology">
-<h2>3) Molecular ecology</h2>
+<div id="decision-analysis" class="section level3 expand collapsed"
+data-toggle="collapse" data-target="#decisionanalysis"
+aria-expanded="false" aria-controls="decisionanalysis">
+<h3><strong>Decision analysis</strong></h3>
 </div>
-<div id="molecularecology" class="collapse">
-<p><img src="images/structure.jpg" style="width:40%; margin-left: 15px" align="right"></p>
-<p>Habitat fragmentation in the Anthropocene has drastically reshaped natural landscapes and greatly disrupted patterns of gene flow among plant and animal populations, particularly for ‘rare’ species with low dispersal ability. However, when species decline and become at risk of extinction, populations become less abundant and typical methods to assess demographic features (e.g., mark-recapture) can become impractical for estimating trends in population vital rates. To this end, I use a molecular ecology toolkit to assess demographic features for imperiled species, such as population redundancy (i.e., the number of populations), effective population size, genetic diversity, migration between populations, and phylogenetic structure – and I leverage this information to guide conservation strong decision making. <a href="https://www.researchgate.net/project/Evolution-and-systematics-of-amphibians-and-reptiles">Project description</a></p>
+<div id="decisionanalysis" class="collapse">
+<p><img src="images/horses_cropped.jpg" style="width:25%; border:1px solid; margin-left: 15px" align="right">
+Decision makers in natural resource management are faced with complex
+problems with multiple stakeholders, competing objectives, considerable
+uncertainty, and limited budgets. I am interested in helping decision
+makers navigate problems using values-focused decision analysis (e.g.,
+structured decision making), faciltated meetings, and/or analytical
+methods to understand tradeoffs and evaluate the strength of
+alternatives.</p>
 <ul>
-<li><p><a href="files/folt-et-al-2019-plos-one.pdf">Population genetic structure of Eastern Indigo Snakes</a> (<i>Drymarchon couperi</i>)</p></li>
-<li><p>Hybridization of Map Turtles (<i>Graptemys</i> sps.) <a href="files/godwin-et-al-2014-graptemys.pdf">PDF1</a> <a href="http://www.herpconbio.org/Volume_11/Issue_1/Ennen_etal_2016.pdf">PDF2</a></p></li>
-<li><p><a href="files/folt-et-al-2016-mpe.pdf">Phylogenomics of plethodontid salamanders</a></p></li>
-<li><p>Effects of habitat fragmentation on population genetics of Gopher Tortoises (in preparation)</p></li>
+<li><p><a href="files/lawson-et-al-2021-conbio.pdf">The importance of
+decision context in population viability analysis</a></p></li>
+<li><p>Multi-objective population modeling as a decision-support tool
+for feral horse management (in press)</p></li>
 </ul>
-</div>
 </div>
 
 

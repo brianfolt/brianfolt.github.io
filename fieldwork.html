@@ -11,10 +11,10 @@
 
 
 
-<title>fieldwork.utf8</title>
+<title>fieldwork.knit</title>
 
-<script src="site_libs/header-attrs-2.7/header-attrs.js"></script>
-<script src="site_libs/jquery-1.12.4/jquery.min.js"></script>
+<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/paper.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
@@ -70,6 +70,7 @@ if (window.hljs) {
 
 
 
+
 <link rel="stylesheet" href="styles.css" type="text/css" />
 
 
@@ -94,6 +95,9 @@ button.code-folding-btn:focus {
 }
 summary {
   display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
 }
 pre code {
   padding: 0;
@@ -246,12 +250,12 @@ $(document).ready(function () {
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="index.html">Brian Folt</a>
+      <a class="navbar-brand" href="index.html">Brian Folt, Ph.D.</a>
     </div>
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
@@ -269,9 +273,6 @@ $(document).ready(function () {
 </li>
 <li>
   <a href="publications.html">Publications</a>
-</li>
-<li>
-  <a href="musings.html">Musings</a>
 </li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
@@ -312,8 +313,6 @@ $(document).ready(function () {
 </div>
 
 
-<div id="section" class="section level2">
-<h2>—</h2>
 <p><link rel="stylesheet" href="styles.css" type="text/css"></p>
 <style type="text/css">
 body{ /* Normal  */ font-size: 16px; font-family: Arial; color:black}
@@ -325,13 +324,15 @@ h3 { /* Header 3 */ font-size: 18px; color: Black;}
 code.r{ /* Code block */ font-size: 12px;}
 pre { /* Code block - determines code spacing between lines */ font-size: 14px;}
 </style>
-</div>
-<div id="fieldwork" class="section level1">
-<h1>Fieldwork</h1>
-<p>Here are sites where my colleagues and I have developed field research projects. The map is still under-construction; check back in the future for project descriptions and pictures.</p>
-<div id="htmlwidget-9245cab8b342af2d5ed4" style="width:672px;height:480px;" class="leaflet html-widget"></div>
-<script type="application/json" data-for="htmlwidget-9245cab8b342af2d5ed4">{"x":{"options":{"crs":{"crsClass":"L.CRS.EPSG3857","code":null,"proj4def":null,"projectedBounds":null,"options":{}}},"calls":[{"method":"addTiles","args":["//{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",null,null,{"minZoom":0,"maxZoom":18,"tileSize":256,"subdomains":"abc","errorTileUrl":"","tms":false,"noWrap":false,"zoomOffset":0,"zoomReverse":false,"opacity":1,"zIndex":1,"detectRetina":false,"attribution":"&copy; <a href=\"http://openstreetmap.org\">OpenStreetMap<\/a> contributors, <a href=\"http://creativecommons.org/licenses/by-sa/2.0/\">CC-BY-SA<\/a>"}]},{"method":"addMarkers","args":[[31.126,22,29.633241,34.799517,30.937477,10.425307,39.232,30.9869],[-86.753,100.8,-102.74,-84.576,-84.7426,-84.017,-113.699,-85.829722],null,null,null,{"interactive":true,"draggable":false,"keyboard":true,"title":"","alt":"","zIndexOffset":0,"opacity":1,"riseOnHover":false,"riseOffset":250},null,null,null,null,["<p>Conecuh National Forest, Alabama<p><\/p>Field studies of Gopher Tortoise survival and population genetic structure; reintroduction of an endangered snake","<p>Yunnan Province, China<p><\/p>Biodiversity surveys of reptiles and bats in karst caves","<p>Lower Canyons of the Rio Grande<p><\/p>Formative wilderness adventure","<p>Blue Ridge Mountains<p><\/p>Phylogenetic studies of salamanders","<p>Spring Creek, Georgia<p><\/p>Demographic studies of Alligator Snapping Turtles","<p>La Selva Biological Station, Costa Rica<p><\/p>Field studies and experimental manipulations of frog and lizard population regulation","<p>Conger Mountain, Utah<p><\/p>Feral horse demographic research","<p>Choctawhatchee River, Florida<p><\/p>Studies of hybridizing freshwater turtles"],{"interactive":false,"permanent":false,"direction":"auto","opacity":1,"offset":[0,0],"textsize":"10px","textOnly":false,"className":"","sticky":true},null]},{"method":"addProviderTiles","args":["OpenMapSurfer.Roads",null,null,{"errorTileUrl":"","noWrap":false,"detectRetina":false}]}],"limits":{"lat":[10.425307,39.232],"lng":[-113.699,100.8]}},"evals":[],"jsHooks":[]}</script>
-<p>Here are videos from some favorite field excursions - for research or just for fun.</p>
+<div id="locations" class="section level1">
+<h1>Locations</h1>
+<p>Here are sites where my colleagues and I have developed field
+research projects. The map is still under-construction; check back in
+the future for project descriptions and pictures.</p>
+<div id="htmlwidget-dd78ee634b964d1c5db9" style="width:672px;height:480px;" class="leaflet html-widget"></div>
+<script type="application/json" data-for="htmlwidget-dd78ee634b964d1c5db9">{"x":{"options":{"crs":{"crsClass":"L.CRS.EPSG3857","code":null,"proj4def":null,"projectedBounds":null,"options":{}}},"calls":[{"method":"addTiles","args":["//{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",null,null,{"minZoom":0,"maxZoom":18,"tileSize":256,"subdomains":"abc","errorTileUrl":"","tms":false,"noWrap":false,"zoomOffset":0,"zoomReverse":false,"opacity":1,"zIndex":1,"detectRetina":false,"attribution":"&copy; <a href=\"http://openstreetmap.org\">OpenStreetMap<\/a> contributors, <a href=\"http://creativecommons.org/licenses/by-sa/2.0/\">CC-BY-SA<\/a>"}]},{"method":"addMarkers","args":[[31.126,22,29.633241,34.799517,30.937477,10.425307,39.232,30.9869,32.599068],[-86.753,100.8,-102.74,-84.576,-84.7426,-84.017,-113.699,-85.829722,-85.482878],null,null,null,{"interactive":true,"draggable":false,"keyboard":true,"title":"","alt":"","zIndexOffset":0,"opacity":1,"riseOnHover":false,"riseOffset":250},null,null,null,null,["<p>Conecuh National Forest, Alabama<p><\/p>Field studies of Gopher Tortoise survival and population genetic structure; reintroduction of an endangered snake","<p>Yunnan Province, China<p><\/p>Biodiversity surveys of reptiles and bats in karst caves","<p>Lower Canyons of the Rio Grande<p><\/p>Formative wilderness adventure","<p>Blue Ridge Mountains<p><\/p>Phylogenetic studies of salamanders","<p>Spring Creek, Georgia<p><\/p>Demographic studies of Alligator Snapping Turtles","<p>La Selva Biological Station, Costa Rica<p><\/p>Field studies and experimental manipulations of frog and lizard population regulation","<p>Conger Mountain, Utah<p><\/p>Feral horse demographic research","<p>Choctawhatchee River, Florida<p><\/p>Studies of hybridizing freshwater turtles","<p>Auburn University Museum of Natural History<p><\/p>Taxonomic and phylogenetic studies of amphibians and reptiles"],{"interactive":false,"permanent":false,"direction":"auto","opacity":1,"offset":[0,0],"textsize":"10px","textOnly":false,"className":"","sticky":true},null]},{"method":"addProviderTiles","args":["OpenMapSurfer.Roads",null,null,{"errorTileUrl":"","noWrap":false,"detectRetina":false}]}],"limits":{"lat":[10.425307,39.232],"lng":[-113.699,100.8]}},"evals":[],"jsHooks":[]}</script>
+<p>Here are videos from some favorite field excursions - for research or
+just for fun.</p>
 <div class="vembedr">
 <div>
 <iframe class="vimeo-embed" src="https://player.vimeo.com/video/152795925" width="533" height="300" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>

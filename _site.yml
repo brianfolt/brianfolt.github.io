@@ -1,7 +1,7 @@
 name: "Brian Folt"
 output_dir: "."
 navbar:
-  title: "Brian Folt"
+  title: "Brian Folt, Ph.D."
   left:
     - text: "Welcome"
       href: index.html
@@ -9,8 +9,8 @@ navbar:
       href: research.html
     - text: "Teaching"
       href: teaching.html
-    - text: "Fieldwork"
-      href: fieldwork.html
+    - text: "Locations"
+      href: locations.html
     - text: "Publications"
       href: publications.html
   right: 
