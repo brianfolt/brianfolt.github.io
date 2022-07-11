@@ -55,19 +55,3 @@ I have taught laboratory and field courses in both Vertebrate Biodiversity and H
 I co-taught "SSA200 - Strategic Use of Data for Species Status Assessments", a two-day crash-course in wildlife population statistics, modeling, and population projections for USFWS biologists involved in [Species Status Assessments](https://www.fws.gov/endangered/improving_esa/ssa.html). All course materials (lectures, activities, web applications, and other information) can be found on the [course website](ssa200.auburn.edu). 
 
 </div>
-
-<div class="expand collapsed" data-toggle="collapse" data-target="#vids" aria-expanded="false" aria-controls="vids">
-**Click here** for brief teaching examples from Tropical Ecology in Costa Rica.
-</div>
-
-<div class="collapse" id="vids">
-
-```{r library(vembedr), echo=FALSE}
-embed_vimeo("252555348") %>%
-  div(align = "middle")
-
-embed_vimeo("252284774") %>%
-  div(align = "middle")
-```
-
-</div>
