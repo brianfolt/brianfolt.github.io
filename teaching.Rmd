@@ -18,8 +18,6 @@ h3 { /* Header 3 */ font-size: 18px; color: Black;}
 code.r{ /* Code block */ font-size: 12px;}
 pre { /* Code block - determines code spacing between lines */ font-size: 14px;}
 </style>
-# Teaching Philosophy and Experience
-
 >"<i>We will conserve only what we love, we will love only what we understand, and we will understand only what we are taught.</i>"
 `r tufte::quote_footer('Baba Dioum, 1968')`
 
