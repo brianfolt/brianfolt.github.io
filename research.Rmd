@@ -14,9 +14,12 @@ code.r{ /* Code block */ font-size: 12px;}
 pre { /* Code block - determines code spacing between lines */ font-size: 14px;}
 </style>
 
-<img src="images/me_amphiuma_2012.jpg" style="width:25%; border:1px solid; margin-left: 15px" align="right">
+<img src="images/gather-pic-2.png" style="width:40%; border:2px solid; margin-left: 15px" align="right">
 
-I study animal populations from fundamental and applied perspectives. I conduct fundamental research that develops and tests hypotheses about how populations function, and then I work to understand how populations can be managed in ways that maximize important societal values, such as the preventing species extinction, maximizing ecosystem health, and reducing management cost. However, decision makers in natural resource management often are faced with complex decisions with great uncertainty. To help navigate difficult decisions, I use decision analysis tools (e.g., structured decision making) to work with decision makers and help them understand problems, objectives, alternatives, and important trade-offs in the decision. I often build problem-solving tools and applications that, for example, use predictive models to estimate the ability of alternatives to achieve different objectives during decisions.
+
+I study animal populations from fundamental and applied perspectives. I conduct fundamental research that develops and tests hypotheses about how populations function, and then I work to understand how populations can be managed in ways that maximize important societal values, such as the preventing species extinction, maximizing ecosystem health, and reducing management cost.
+
+However, decision makers in natural resource management often are faced with complex decisions with great uncertainty. To help navigate difficult decisions, I use decision analysis tools (e.g., structured decision making) to work with decision makers and help them understand problems, objectives, alternatives, and important trade-offs in the decision. I often build problem-solving tools and applications that, for example, use predictive models to estimate the ability of alternatives to achieve different objectives during decisions.
 
 Click on the bold topics below to learn more about my work interests and see examples of products. I also include links to more detailed descriptions on my [ResearchGate](https://www.researchgate.net/profile/Brian_Folt) profile. Also, check out my [fieldwork](https://brianfolt.github.io/fieldwork) page for a map of study sites, pictures, and videos from the research projects in the field and lab. 
 
