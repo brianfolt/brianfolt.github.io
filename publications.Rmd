@@ -20,7 +20,7 @@ Below are my publications and PDF reprints, and here is a link to my [Google Sch
 
 ### <u>2022</u>
 
-[24] **B Folt**, LS Ekernas, K Schoenecker. 2022 Multi-objective modeling as a decision-support tool for feral horse management. *Human-Wildlife Interactions*. In press.
+[24] **B Folt**, K Schoenecker, LS Ekernas. 2022 Multi-objective modeling as a decision-support tool for feral horse management. *Human-Wildlife Interactions*. In press.
 
 [23] **B Folt**, M Marshall, JA Emmanuel, M Dziadzio, J Cooke, L Mena, M Hinderlichter, S Hoffman, N Rankin, J Tupy, CP McGowan (2022). Using predictions from multiple anthropogenic stressors to estimate future population conditions of an imperiled species. *Global Ecology and Conservation* 36: e02143. [PDF](files/folt-et-al-2022-tortoise-pva.pdf) [DOI](https://doi.org/10.1016/j.gecco.2022.e02143) 
 
