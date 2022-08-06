@@ -45,7 +45,7 @@ I have taught laboratory and field courses in both Vertebrate Biodiversity and H
 
 
 <div class="expand collapsed" data-toggle="collapse" data-target="#ssa" aria-expanded="false" aria-controls="ssa">
-### **Risk Assessments for Imperiled Species**
+### **Risk assessments for imperiled species**
 </div>
 
 <div class="collapse" id="ssa">

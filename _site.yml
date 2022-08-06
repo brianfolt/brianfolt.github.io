@@ -20,8 +20,6 @@ navbar:
       href: http://github.com/brianfolt
     - icon: fab fa-twitter fa-lg
       href: https://twitter.com/brianf0lt
-    - icon: fab fa-instagram fa-lg
-      href: https://www.instagram.com/bf_lettuce/?hl=en
   
 output:
   html_document:

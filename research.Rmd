@@ -46,7 +46,7 @@ In general, I am interested in understanding how intrinsic and extrinsic factors
 </div>
 
 <div class="expand collapsed" data-toggle="collapse" data-target="#conservation" aria-expanded="false" aria-controls="conservation">
-### **Decision-support science**
+### **Applied science**
 </div>
 
 <div class="collapse" id="conservation">
@@ -57,9 +57,9 @@ I conduct research that has strong applications for wildlife management and cons
 
   - [Modeling reintroduction scenarios and successes for the federally-threatened Eastern Indigo Snakes](files/folt-et-al-2019-animal-conservation.pdf)
   
-    - [Population genetic structure of the federally-listed Eastern Indigo Snakes](files/folt-et-al-2019-plos-one.pdf) (<i>Drymarchon couperi</i>)
+  - [Population genetic structure of the federally-listed Eastern Indigo Snakes](files/folt-et-al-2019-plos-one.pdf) (<i>Drymarchon couperi</i>)
   
-    - Effects of habitat fragmentation on population genetics of Gopher Tortoises (in preparation)
+  - Effects of habitat fragmentation on population genetics of Gopher Tortoises (in preparation)
 </div>
 
 <div class="expand collapsed" data-toggle="collapse" data-target="#decisionanalysis" aria-expanded="false" aria-controls="decisionanalysis">
@@ -68,7 +68,7 @@ I conduct research that has strong applications for wildlife management and cons
 
 <div class="collapse" id="decisionanalysis">
 <img src="images/horses_cropped.JPG" style="width:25%; border:1px solid; margin-left: 15px" align="right">
-Decision makers in natural resource management are faced with complex problems with multiple stakeholders, competing objectives, considerable uncertainty, and limited budgets. I am interested in helping decision makers navigate problems using values-focused decision analysis (e.g., structured decision making), faciltated meetings, and/or analytical methods to understand tradeoffs and evaluate the strength of alternatives.
+Decision makers in natural resource management are faced with complex problems with multiple stakeholders, competing objectives, considerable uncertainty, and limited budgets. I am interested in helping decision makers navigate problems using values-focused decision analysis (e.g., structured decision making), facilitated meetings, and/or analytical methods to understand tradeoffs and evaluate the strength of alternatives.
   
   - [The importance of decision context in population viability analysis](files/lawson-et-al-2021-conbio.pdf)
   
