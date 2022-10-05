@@ -70,5 +70,5 @@ Decision makers in natural resource management are faced with complex problems w
   
   - [The importance of decision context in population viability analysis](files/lawson-et-al-2021-conbio.pdf)
   
-  - Multi-objective population modeling as a decision-support tool for feral horse management (in press)
+  - [Multi-objective population modeling as a decision-support tool for horse population management](files/Folt-et-al-inpress.pdf)
 </div>
