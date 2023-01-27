@@ -18,17 +18,21 @@ Below are my publications and PDF reprints, and here is a link to my [Google Sch
 
 ### <u>In the pipeline (availailable upon request)</u>
 
-[i]	**B Folt**, LS Ekernas, DR Edmunds, M Hannon, KA Schoenecker. *PopEquus*: a predictive modeling tool to support management decisions for free-roaming horse populations. To be submitted October 2022.
+[i]	**B Folt**, LS Ekernas, DR Edmunds, M Hannon, KA Schoenecker. *PopEquus*: a predictive modeling tool to support management decisions for free-roaming horse populations. In review.
 
-[ii] C Guyer, JM Goessling, **B Folt**. Annual and lifetime home ranges reveal movement patterns within and among local populations of gopher tortoises. To be submitted October 2022.
+[ii] C Guyer, JM Goessling, **B Folt**. Annual and lifetime home ranges reveal movement patterns within and among local populations of gopher tortoises. In review.
 
-[iii]	**B Folt**, AR Krohn, JJ Apodaca, C Guyer, J Goessling. Using genomic data to estimate population structure and health for gopher tortoises. To be submitted November 2022.
+[iii]	AR Krohn, **B Folt**, JJ Apodaca, C Guyer, J Goessling. Using genomic data to estimate population structure and health for gopher tortoises. To be submitted Feburary 2023.
 
 <img src="images/horses_cropped.JPG" style="width:20%; border:1px solid; margin-left: 15px" align="right">
 
-### <u>2022</u>
+### <u>2023</u>
 
-[24] **B Folt**, K Schoenecker, LS Ekernas. 2022. Multi-objective modeling as a decision-support tool for feral horse management. *Human-Wildlife Interactions*, in press. [PDF](files/Folt-et-al-inpress.pdf) [Software](https://doi.org/10.5066/P9HRF1H9)
+[25] **B Folt**, K Schoenecker, LS Ekernas. 2023. Multi-objective modeling as a decision-support tool for feral horse management. *Human-Wildlife Interactions*, in press. [PDF](files/Folt-et-al-inpress.pdf) [Software](https://doi.org/10.5066/P9HRF1H9)
+
+[24] **B Folt**, LS Ekernas, DR Edmunds, M Hannon, KA Schoenecker. 2023. *PopEquus*: A Predictive Modeling Tool to Support Management Decisions for Free-roaming Horse Populations (Version 1.0.0): U.S. Geological Survey software release, [https://doi.org/10.5066/P9NMRQDG](https://doi.org/10.5066/P9NMRQDG). [Web app](https://rconnect.usgs.gov/popequus/). 
+
+### <u>2022</u>
 
 [23] **B Folt**, M Marshall, JA Emmanuel, M Dziadzio, J Cooke, L Mena, M Hinderlichter, S Hoffman, N Rankin, J Tupy, CP McGowan. 2022. Using predictions from multiple anthropogenic threats to estimate future population persistence of an imperiled species. *Global Ecology and Conservation* 36: e02143. [PDF](files/folt-et-al-2022-tortoise-pva.pdf) [DOI](https://doi.org/10.1016/j.gecco.2022.e02143) 
 

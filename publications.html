@@ -13,7 +13,7 @@
 
 <title>publications.knit</title>
 
-<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.18/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/paper.min.css" rel="stylesheet" />
@@ -153,11 +153,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -186,8 +190,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -195,16 +199,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -327,23 +324,31 @@ class="section level3">
 <h3><u>In the pipeline (availailable upon request)</u></h3>
 <p>[i] <strong>B Folt</strong>, LS Ekernas, DR Edmunds, M Hannon, KA
 Schoenecker. <em>PopEquus</em>: a predictive modeling tool to support
-management decisions for free-roaming horse populations. To be submitted
-October 2022.</p>
+management decisions for free-roaming horse populations. In review.</p>
 <p>[ii] C Guyer, JM Goessling, <strong>B Folt</strong>. Annual and
 lifetime home ranges reveal movement patterns within and among local
-populations of gopher tortoises. To be submitted October 2022.</p>
-<p>[iii] <strong>B Folt</strong>, AR Krohn, JJ Apodaca, C Guyer, J
+populations of gopher tortoises. In review.</p>
+<p>[iii] AR Krohn, <strong>B Folt</strong>, JJ Apodaca, C Guyer, J
 Goessling. Using genomic data to estimate population structure and
-health for gopher tortoises. To be submitted November 2022.</p>
+health for gopher tortoises. To be submitted Feburary 2023.</p>
 <p><img src="images/horses_cropped.jpg" style="width:20%; border:1px solid; margin-left: 15px" align="right"></p>
 </div>
 <div id="section" class="section level3">
-<h3><u>2022</u></h3>
-<p>[24] <strong>B Folt</strong>, K Schoenecker, LS Ekernas. 2022.
+<h3><u>2023</u></h3>
+<p>[25] <strong>B Folt</strong>, K Schoenecker, LS Ekernas. 2023.
 Multi-objective modeling as a decision-support tool for feral horse
 management. <em>Human-Wildlife Interactions</em>, in press. <a
 href="files/Folt-et-al-inpress.pdf">PDF</a> <a
 href="https://doi.org/10.5066/P9HRF1H9">Software</a></p>
+<p>[24] <strong>B Folt</strong>, LS Ekernas, DR Edmunds, M Hannon, KA
+Schoenecker. 2023. <em>PopEquus</em>: A Predictive Modeling Tool to
+Support Management Decisions for Free-roaming Horse Populations (Version
+1.0.0): U.S. Geological Survey software release, <a
+href="https://doi.org/10.5066/P9NMRQDG">https://doi.org/10.5066/P9NMRQDG</a>.
+<a href="https://rconnect.usgs.gov/popequus/">Web app</a>.</p>
+</div>
+<div id="section-1" class="section level3">
+<h3><u>2022</u></h3>
 <p>[23] <strong>B Folt</strong>, M Marshall, JA Emmanuel, M Dziadzio, J
 Cooke, L Mena, M Hinderlichter, S Hoffman, N Rankin, J Tupy, CP McGowan.
 2022. Using predictions from multiple anthropogenic threats to estimate
@@ -352,7 +357,7 @@ Ecology and Conservation</em> 36: e02143. <a
 href="files/folt-et-al-2022-tortoise-pva.pdf">PDF</a> <a
 href="https://doi.org/10.1016/j.gecco.2022.e02143">DOI</a></p>
 </div>
-<div id="section-1" class="section level3">
+<div id="section-2" class="section level3">
 <h3><u>2021</u></h3>
 <p><img src="images/WL110573.JPG" style="width:20%; border:1px solid; margin-left: 15px" align="right"></p>
 <p>[22] AJ Lawson, <strong>B Folt</strong>, AM Tucker, F Erickson, CP
@@ -378,7 +383,7 @@ Alabama. <em>Journal of Wildlife Management</em> 85(4): 617–630. <a
 href="files/folt-et-al-2021-jwm.pdf">PDF</a> <a
 href="https://doi.org/10.1002/jwmg.21996">DOI</a></p>
 </div>
-<div id="section-2" class="section level3">
+<div id="section-3" class="section level3">
 <h3><u>2020</u></h3>
 <p>[18] <strong>B Folt</strong>. 2020. Population demography of
 <em>Rhinoclemmys funerea</em> (Black River Turtle) at a protected forest
@@ -400,7 +405,7 @@ href="files/folt-et-al-2019-animal-conservation.pdf">PDF</a> <a
 href="https://doi.org/10.1111/acv.12537">DOI</a> <a
 href="https://github.com/brianf0lt/indigo-repatriation-model">Code</a></p>
 </div>
-<div id="section-3" class="section level3">
+<div id="section-4" class="section level3">
 <h3><u>2019</u></h3>
 <p>[15] C Guyer, <strong>B Folt</strong>, M Hoffman, J Bauder, D
 Stevenson, S Goetz, M Miller, J Godwin. 2019. Patterns of head shape and
@@ -437,7 +442,7 @@ href="https://doi.org/10.1670/18-083">DOI</a> <a
 href="https://figshare.com/articles/Screaming_calls_of_Leptodactylus_savagei_Smoky_Jungle_Frog_function_as_an_alarm_for_conspecifics/7568972">Data</a>
 <img src="images/glassfrog.jpg" style="width:20%; border:1px solid; margin-left: 15px" align="right"></p>
 </div>
-<div id="section-4" class="section level3">
+<div id="section-5" class="section level3">
 <h3><u>2018</u></h3>
 <p>[11] N Rivera^, <strong>B Folt</strong>. 2018. Community assembly of
 glass frogs (Centrolenidae) in a Neotropical wet forest: a test of the
@@ -453,7 +458,7 @@ href="https://onlinelibrary.wiley.com/doi/epdf/10.1002/ece3.3748">PDF</a>
 <a
 href="http://onlinelibrary.wiley.com/doi/10.1002/ece3.3748/full">DOI</a></p>
 </div>
-<div id="section-5" class="section level3">
+<div id="section-6" class="section level3">
 <h3><u>2017</u></h3>
 <p><img src="images/spider-lizard.jpg" style="width:20%; border:1px solid; margin-left: 15px" align="right">
 [9] <strong>B Folt</strong>, W Lapinski. 2017. New observations of frog
@@ -471,7 +476,7 @@ href="files/roberts-et-al-2017-parasitology-international.pdf">PDF</a>
 href="http://www.sciencedirect.com/science/article/pii/S1383576917302222">DOI</a></p>
 <p><img src="images/gator-snapper.jpg" style="width:20%; border:1px solid; margin-left: 15px" align="right"></p>
 </div>
-<div id="section-6" class="section level3">
+<div id="section-7" class="section level3">
 <h3><u>2016</u></h3>
 <p>[7] <strong>B Folt</strong>, JB Jensen, A Teare, D Rostal. 2016.
 Establishing reference demography for conservation: A case study of
@@ -492,7 +497,7 @@ differences in the Escambia Map Turtle, <em>Graptemys ernsti</em>.
 <em>Herpetological Conservation and Biology</em> 11(1): 122–131. <a
 href="http://www.herpconbio.org/Volume_11/Issue_1/Ennen_etal_2016.pdf">PDF/DOI</a></p>
 </div>
-<div id="section-7" class="section level3">
+<div id="section-8" class="section level3">
 <h3><u>2015</u></h3>
 <p>[4] <strong>B Folt</strong>, C Guyer. 2015. Evaluating recent
 taxonomic changes for alligator snapping turtles (Testudines:
@@ -501,7 +506,7 @@ href="files/folt-guyer-2015.pdf">PDF</a> <a
 href="http://dx.doi.org/10.11646/zootaxa.3947.3.11">DOI</a>
 <img src="images/copeia-cover.jpg" style="width:15%; border:1px solid; margin-left: 15px" align="right"></p>
 </div>
-<div id="section-8" class="section level3">
+<div id="section-9" class="section level3">
 <h3><u>2014</u></h3>
 <p>[3] JC Godwin, JE Lovich, JR Ennen, B Kreiser, <strong>B
 Folt</strong>, C Lechowicz. 2014. Hybridization of two megacephalic map
@@ -510,7 +515,7 @@ River drainage of Alabama and Florida. <em>Copeia</em> 2014(4): 725–742.
 <a href="files/godwin-et-al-2014-graptemys.pdf">PDF</a> <a
 href="http://dx.doi.org/10.1643/CH-13-132">DOI</a></p>
 </div>
-<div id="section-9" class="section level3">
+<div id="section-10" class="section level3">
 <h3><u>2013</u></h3>
 <p><img src="images/ccb-cover.jpg" style="width:15%; border:1px solid; margin-left: 15px" align="right">
 [2] <strong>B Folt</strong>, JC Godwin. 2013. Status of the Alligator
