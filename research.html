@@ -13,7 +13,7 @@
 
 <title>research.knit</title>
 
-<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.18/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/paper.min.css" rel="stylesheet" />
@@ -34,6 +34,15 @@
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 <link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
 <link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-067MZ5F9HV"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-067MZ5F9HV');
+</script>
 
 <style type="text/css">
   code{white-space: pre-wrap;}
@@ -144,11 +153,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -177,8 +190,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -186,16 +199,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -353,13 +359,15 @@ vs. bottom-up regulation of terrestrial vertebrates</a></p></li>
 <li><p><a
 href="https://onlinelibrary.wiley.com/doi/epdf/10.1002/ece3.3748">Conspecific
 attraction of poison frogs</a> in tropical forests</p></li>
-<li><p>Bottom-up regulation of frogs and lizards (the litter-mosaic
-hypothesis; in revision)</p></li>
+<li><p>Bottom-up regulation of frogs and lizards (the leaf-litter mosaic
+model)</p></li>
 <li><p><a href="files/files/folt-et-al-2021-jwm.pdf">Estimating
 demography and projecting population viability of Gopher
 Tortoises</a></p></li>
 <li><p><a href="files/rivera-folt-2018-glassfrogs.pdf">Habitat-driven
 community assembly of glassfrogs</a></p></li>
+<li><p>Environmental and management effects on population dynamics of
+free-roaming horses (in preparation)</p></li>
 </ul>
 </div>
 <div id="applied-science" class="section level3 expand collapsed"
@@ -391,6 +399,9 @@ structure of the federally-listed Eastern Indigo Snakes</a>
 (<i>Drymarchon couperi</i>)</p></li>
 <li><p>Effects of habitat fragmentation on population genetics of Gopher
 Tortoises (in preparation)</p></li>
+<li><p><a href="https://rconnect.usgs.gov/popequus/"><em>PopEquus</em>:
+a predictive modeling tool to understand tradeoffs in wild horse
+population management</a></p></li>
 </ul>
 </div>
 <div id="decision-analysis" class="section level3 expand collapsed"

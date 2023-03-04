@@ -36,11 +36,13 @@ In general, I am interested in understanding how intrinsic and extrinsic factors
   
   - [Conspecific attraction of poison frogs](https://onlinelibrary.wiley.com/doi/epdf/10.1002/ece3.3748) in tropical forests  
   
-  - Bottom-up regulation of frogs and lizards (the litter-mosaic hypothesis; in revision)
+  - Bottom-up regulation of frogs and lizards (the leaf-litter mosaic model)
   
   - [Estimating demography and projecting population viability of Gopher Tortoises](files/files/folt-et-al-2021-jwm.pdf)
   
   - [Habitat-driven community assembly of glassfrogs](files/rivera-folt-2018-glassfrogs.pdf)
+  
+  - Environmental and management effects on population dynamics of free-roaming horses (in preparation)
 </div>
 
 <div class="expand collapsed" data-toggle="collapse" data-target="#conservation" aria-expanded="false" aria-controls="conservation">
@@ -58,6 +60,8 @@ I conduct research that has strong applications for wildlife management and cons
   - [Population genetic structure of the federally-listed Eastern Indigo Snakes](files/folt-et-al-2019-plos-one.pdf) (<i>Drymarchon couperi</i>)
   
   - Effects of habitat fragmentation on population genetics of Gopher Tortoises (in preparation)
+  
+  - [*PopEquus*: a predictive modeling tool to understand tradeoffs in wild horse population management](https://rconnect.usgs.gov/popequus/)
 </div>
 
 <div class="expand collapsed" data-toggle="collapse" data-target="#decisionanalysis" aria-expanded="false" aria-controls="decisionanalysis">
