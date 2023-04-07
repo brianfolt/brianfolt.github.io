@@ -22,7 +22,7 @@ Below are my publications and PDF reprints, and here is a link to my [Google Sch
 
 [ii] C Guyer, JM Goessling, **B Folt**. Annual and lifetime home ranges reveal movement patterns within and among local populations of gopher tortoises. In review.
 
-[iii]	AR Krohn, **B Folt**, JJ Apodaca, C Guyer, J Goessling. Using genomic data to estimate population structure and health for gopher tortoises. To be submitted in 2023.
+[iii]	AR Krohn, **B Folt**, JJ Apodaca, C Guyer, J Goessling. Using genomic data to estimate population structure and health for gopher tortoises. In review.
 
 [iv]	**B Folt**, C Guyer. Integrated population modeling reveals leaf-drop phenology effects on vertebrate population dynamics. To be submitted in 2023.
 
@@ -30,9 +30,9 @@ Below are my publications and PDF reprints, and here is a link to my [Google Sch
 
 ### <u>2023</u>
 
-[25] **B Folt**, K Schoenecker, LS Ekernas. 2023. Multi-objective modeling as a decision-support tool for feral horse management. *Human-Wildlife Interactions*, in press. [PDF](files/Folt-et-al-inpress.pdf) [Software](https://doi.org/10.5066/P9HRF1H9)
+[24] **B Folt**, K Schoenecker, LS Ekernas. 2023. Multi-objective modeling as a decision-support tool for feral horse management. *Human-Wildlife Interactions*, in press. [PDF](files/Folt-et-al-inpress.pdf) [Software](https://doi.org/10.5066/P9HRF1H9)
 
-[24] **B Folt**, LS Ekernas, DR Edmunds, M Hannon, KA Schoenecker. 2023. *PopEquus*: A Predictive Modeling Tool to Support Management Decisions for Free-roaming Horse Populations: U.S. Geological Survey software release, [https://doi.org/10.5066/P9NMRQDG](https://doi.org/10.5066/P9NMRQDG). [Web app](https://rconnect.usgs.gov/popequus/). Press Releases: [BLM](https://www.blm.gov/press-release/new-tool-models-future-wild-horses-public-lands), [USGS](https://www.usgs.gov/news/national-news-release/new-tool-models-future-wild-horses-public-lands)
+[Software] **B Folt**, LS Ekernas, DR Edmunds, M Hannon, KA Schoenecker. 2023. *PopEquus*: A Predictive Modeling Tool to Support Management Decisions for Free-roaming Horse Populations: U.S. Geological Survey software release, [https://doi.org/10.5066/P9NMRQDG](https://doi.org/10.5066/P9NMRQDG). [Web app](https://rconnect.usgs.gov/popequus/). Press Releases: [BLM](https://www.blm.gov/press-release/new-tool-models-future-wild-horses-public-lands), [USGS](https://www.usgs.gov/news/national-news-release/new-tool-models-future-wild-horses-public-lands)
 
 ### <u>2022</u>
 
