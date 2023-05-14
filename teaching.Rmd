@@ -50,8 +50,6 @@ I have taught laboratory and field courses in both Vertebrate Biodiversity and H
 
 <div class="collapse" id="ssa">
 
-<img src="images/SSA200small.jpg" style="width:40%; border:2px solid; margin-left: 15px" align="right">
-
 I co-taught "SSA200 - Strategic Use of Data for Species Status Assessments", a two-day crash-course in wildlife population statistics, modeling, and population projections for USFWS biologists involved in [Species Status Assessments](https://www.fws.gov/endangered/improving_esa/ssa.html). All course materials (lectures, activities, web applications, and other information) can be found on the [course website](ssa200.auburn.edu). 
 
 </div>
@@ -60,7 +58,7 @@ I co-taught "SSA200 - Strategic Use of Data for Species Status Assessments", a t
 library(slickR)
 paths <- c(
   
-  "images/lascruces_27sep17.JPG",
+  "images/lascruces_27sep17.jpeg",
   "images/la-sierra-class.jpg",
   "images/dinner.JPG",
   

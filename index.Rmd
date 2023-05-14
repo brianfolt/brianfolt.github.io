@@ -30,18 +30,18 @@ paths <- c(
   
   "images/oophaga-pumilio.jpg",
   "images/hawk.JPG",
-  "images/cyrtodactylus_19aug18_1a.JPG",
+  "images/cyrtodactylus_19aug18_1a.jpeg",
   
-  "images/lascruces_27sep17.JPG",
+  "images/lascruces_27sep17.jpeg",
   "images/pocket-gopher.jpg",
   "images/horses_cropped.jpg",
 
   "images/spider-lizard.jpg",
-  "images/montanus.jpg",
-  "images/striatula_8apr17_1d.JPG",
+  "images/supraciliaris.JPG",
+  "images/montanus.jpeg",
 
   "images/indigo.jpg",
-  "images/toucan_27sep17_1a.JPG",
+  "images/toucan_27sep17_1a.jpeg",
   "images/dinner.JPG",
 
   "images/caracara_9oct17_1b.JPG",
@@ -52,23 +52,15 @@ paths <- c(
   "images/grouse.jpg",
   "images/prep-tray.jpg",
 
-  "images/supraciliaris.JPG",
   "images/glassfrog.jpg",
-  "images/asper_10oct17_1a.JPG",
-  
+  "images/gather-pic-2.jpg",
+  "images/WL110573.jpeg",
+
   "images/la-sierra-class.jpg",
-  "images/timber.jpg",
+  "images/shoal-lily.jpeg",
   "images/cave.JPG",
 
-  "images/gather-pic-2.png",
-  "images/shoal-lily.jpg",
-  "images/sloth.jpg",
-
-  "images/WL110573.JPG",
-  "images/mud-snake.jpg",
-  "images/piscivorus_24may17_1c.JPG",
-
-  "images/tortoise.jpg",
+  "images/sloth.jpeg",
   "images/tigris_25mar18_1a.JPG",
   "images/bamboo.JPG"
   
