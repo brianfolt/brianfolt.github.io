@@ -32,7 +32,7 @@ To understand and conserve wildlife on Earth, we must generate interest in natur
 <div class="collapse" id="college">
 **Tropical Ecology**
 
-<img src="images/TropBio-PaloVerde-Federico-Chinchilla.jpg" style="width:40%; border:2px solid; margin-left: 15px" align="right">
+<img src="images/lascruces_27sep17.jpeg" style="width:40%; border:2px solid; margin-left: 15px" align="right">
 In 2017, I worked as a Resident Professor for the Organization for Tropical Studies in Costa Rica, where I co-taught an undergraduate study-abroad course in tropical ecology. The course – Tropical Biology on a Changing Planet – was offered through Organization for Tropical Studies and accredited by Duke University. During a semester, the students and faculty visited six tropical forest biomes in Costa Rica and Panama, during which they become experts in ecology, environmental policy, and research methods in the diverse tropical ecosystems. They also become proficient in Spanish language and Costa Rican culture through classes at the Costa Rican Language Academy and by hanging out with all the great Costa Ricans at the field sites. Please contact me if you are interested in studying tropical biology in Costa Rica.
 
 **Vertebrate Ecology and Herpetology**
@@ -67,6 +67,38 @@ paths <- c(
   "images/SSA200small.jpg"
   
   )
-slickR(obj=paths, height=200) + 
-  settings(dots = TRUE, slidesToShow=3, slidesToScroll=3, autoplay=TRUE, autoplaySpeed=5000)
+slickR(obj=paths, height=175) + 
+  settings(dots = TRUE, slidesToScroll=3, slidesToShow=3, 
+           autoplay=TRUE, autoplaySpeed=5000,
+           responsive = V8::JS(
+  "[
+   {
+    breakpoint: 850,
+  settings: {
+    slidesToShow: 3,
+    slidesToScroll: 3,
+    infinite: true,
+    dots: true
+   }
+  },
+  {
+   breakpoint: 700,
+    settings: {
+    slidesToShow: 2,
+    slidesToScroll: 2,
+    infinite: true,
+    dots: true
+  }
+ },
+ {
+    breakpoint: 480,
+    settings: {
+    slidesToShow: 1,
+     slidesToScroll: 1,
+     infinite: true,
+     dots: true
+    }
+   }
+  ]"
+   ))
 ```

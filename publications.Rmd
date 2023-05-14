@@ -170,6 +170,38 @@ paths <- c(
   "images/pseudotriton1.jpg"
 
   )
-slickR(obj=paths, height=200) + 
-  settings(dots = TRUE, slidesToShow=3, slidesToScroll=3, autoplay=TRUE, autoplaySpeed=5000)
+slickR(obj=paths, height=175) + 
+  settings(dots = TRUE, slidesToScroll=3, slidesToShow=3, 
+           autoplay=TRUE, autoplaySpeed=5000,
+           responsive = V8::JS(
+  "[
+   {
+    breakpoint: 850,
+  settings: {
+    slidesToShow: 3,
+    slidesToScroll: 3,
+    infinite: true,
+    dots: true
+   }
+  },
+  {
+   breakpoint: 700,
+    settings: {
+    slidesToShow: 2,
+    slidesToScroll: 2,
+    infinite: true,
+    dots: true
+  }
+ },
+ {
+    breakpoint: 480,
+    settings: {
+    slidesToShow: 1,
+     slidesToScroll: 1,
+     infinite: true,
+     dots: true
+    }
+   }
+  ]"
+   ))
 ```
