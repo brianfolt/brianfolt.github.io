@@ -18,8 +18,61 @@ pre { /* Code block - determines code spacing between lines */ font-size: 14px;}
 
 I am a **quantitative ecologist** and **wildlife biologist** who is interested in **supporting good decisions** in natural resource management. I combine field research, quantitative methods, and  structured-decision making skills to understand system dynamics and help support wildlife management decisions in a transparent and inclusive framework. I have a B.S. in [Biological Sciences from Ohio University](https://www.ohio.edu/cas/biology) (2011), a Ph.D. in [Ecology from Auburn University](http://www.auburn.edu/cosam/departments/biology/) (2017), and post-doctoral experience from the Alabama and Florida Cooperative Fish and Wildlife Research Units at [Auburn University](https://www1.usgs.gov/coopunits/unit/Alabama) and the [University of Florida](https://wec.ifas.ufl.edu/coop/). 
 
-I currently work as an ecologist for the [U.S. Geological Survey](https://www.usgs.gov/) at the [Fort Collins Science Center](https://www.usgs.gov/centers/fort), where I am building tools to support management decisions for wild horse populations in the United States. I recently developed [*PopEquus*](https://rconnect.usgs.gov/popequus/), a website application that can be used to simulate wild horse populations and understand trade-offs in population management.
+I currently work as an ecologist for the [U.S. Geological Survey](https://www.usgs.gov/) at the [Fort Collins Science Center](https://www.usgs.gov/centers/fort), where I am building tools to support management decisions for wild horse populations in the United States. I recently developed [*PopEquus*](https://rconnect.usgs.gov/popequus/), a website application that can be used to simulate wild horse populations and help understand trade-offs among management alternatives.
 
 On this site, you can learn about my [work interests](https://brianfolt.github.io/research), where my [projects occur](https://brianfolt.github.io/locations), and [products and publications ](https://brianfolt.github.io/publications) that have emerged from my work.
 
 You can contact me at: bfolt [at] usgs [dot] gov.
+
+```{r pictures, echo=FALSE}
+library(slickR)
+paths <- c(
+  
+  "images/oophaga-pumilio.jpg",
+  "images/hawk.JPG",
+  "images/cyrtodactylus_19aug18_1a.JPG",
+  
+  "images/lascruces_27sep17.JPG",
+  "images/pocket-gopher.jpg",
+  "images/horses_cropped.jpg",
+
+  "images/spider-lizard.jpg",
+  "images/montanus.jpg",
+  "images/striatula_8apr17_1d.JPG",
+
+  "images/indigo.jpg",
+  "images/toucan_27sep17_1a.JPG",
+  "images/dinner.JPG",
+
+  "images/caracara_9oct17_1b.JPG",
+  "images/indigo-release.jpg",
+  "images/bluecrownedmotmot_23sep17_1a.JPG",
+  
+  "images/bat.JPG",
+  "images/grouse.jpg",
+  "images/prep-tray.jpg",
+
+  "images/supraciliaris.JPG",
+  "images/glassfrog.jpg",
+  "images/asper_10oct17_1a.JPG",
+  
+  "images/la-sierra-class.jpg",
+  "images/timber.jpg",
+  "images/cave.JPG",
+
+  "images/gather-pic-2.png",
+  "images/shoal-lily.jpg",
+  "images/sloth.jpg",
+
+  "images/WL110573.JPG",
+  "images/mud-snake.jpg",
+  "images/piscivorus_24may17_1c.JPG",
+
+  "images/tortoise.jpg",
+  "images/tigris_25mar18_1a.JPG",
+  "images/bamboo.JPG"
+  
+  )
+slickR(obj=paths, height=200) + 
+  settings(dots = TRUE, slidesToShow=3, slidesToScroll=3, autoplay=TRUE, autoplaySpeed=5000)
+```

@@ -152,3 +152,24 @@ SC Sterrett, JB Jensen, **B Folt**. 2014. *Graptemys barbouri* (Barbour’s Map 
 **B Folt**. 2019. Op-ed: “Indigo Snake Releases are Guided by Strong Science and Conservation Ethic.” *The Tallahassee Democrat*. [Link](https://www.tallahassee.com/story/opinion/2019/03/31/indigo-snake-releases-guided-strong-science-conservation-ethic/3313120002/)
 
 **B Folt**. 2014. Alligator Snapping Turtles: Ecology and Mythology in Alabama. *Alabama Wildlife Magazine*, July 2014. 44 pp. Article featured with cover photograph.
+
+```{r pictuures, echo=FALSE}
+library(slickR)
+paths <- c(
+
+  "images/jwm-cover.jpg",
+  "images/copeia-cover.jpg",
+  "images/ccb-cover.jpg",
+  
+  "images/amphibians-ohio.jpg",
+  "images/reptiles-ohio.png",
+  "images/ptychohyla.png",
+  
+  "images/structure.jpg",
+  "images/indigos.jpg",
+  "images/pseudotriton1.jpg"
+
+  )
+slickR(obj=paths, height=200) + 
+  settings(dots = TRUE, slidesToShow=3, slidesToScroll=3, autoplay=TRUE, autoplaySpeed=5000)
+```
