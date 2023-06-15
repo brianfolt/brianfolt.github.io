@@ -28,37 +28,37 @@ You can contact me at: bfolt [at] usgs [dot] gov.
 library(slickR)
 paths <- c(
   
-  "images/oophaga-pumilio.jpg",
-  "images/hawk.JPG",
-  "images/cyrtodactylus_19aug18_1a.jpeg",
-  
   "images/spider-lizard.jpg",
   "images/supraciliaris.JPG",
   "images/montanus.jpeg",
+  
+  "images/lascruces_27sep17.jpeg",
+  "images/pocket-gopher.jpg",
+  "images/horses_cropped.jpg",
+  
+  "images/bat.JPG",
+  "images/grouse.jpg",
+  "images/prep-tray.jpg",
   
   "images/indigo.jpg",
   "images/tigris_25mar18_1a.JPG",
   "images/gather-pic-2.jpg",
 
-  "images/caracara_9oct17_1b.JPG",
+  "images/glassfrog.jpg",
   "images/indigo-release.jpg",
   "images/toucan_27sep17_1a.jpeg",
-  
-  "images/glassfrog.jpg",
+
+  "images/caracara_9oct17_1b.JPG",
   "images/shoal-lily.jpeg",
   "images/WL110573.jpeg",
-  
-  "images/bat.JPG",
-  "images/grouse.jpg",
-  "images/prep-tray.jpg",
-    
-  "images/lascruces_27sep17.jpeg",
-  "images/pocket-gopher.jpg",
-  "images/horses_cropped.jpg",
 
   "images/la-sierra-class.jpg",
   "images/dinner.JPG",
-  "images/cave.JPG"
+  "images/cave.JPG",
+  
+  "images/oophaga-pumilio.jpg",
+  "images/hawk.JPG",
+  "images/cyrtodactylus_19aug18_1a.jpeg"
 
   )
 
