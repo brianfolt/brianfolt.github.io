@@ -32,7 +32,7 @@ Below are my publications and PDF reprints, and here is a link to my [Google Sch
 
 ### <u>2023</u>
 
-[24] **B Folt**, K Schoenecker, LS Ekernas. 2023. Multi-objective modeling as a decision-support tool for free-roaming horse management. *Human-Wildlife Interactions*, in press. [PDF](folt-et-al-2023-hwi.pdf) [Software](https://doi.org/10.5066/P9HRF1H9)
+[24] **B Folt**, K Schoenecker, LS Ekernas. 2023. Multi-objective modeling as a decision-support tool for free-roaming horse management. *Human-Wildlife Interactions*, in press. [PDF](files/folt-et-al-2023-hwi.pdf) [Software](https://doi.org/10.5066/P9HRF1H9)
 
 [Software] **B Folt**, LS Ekernas, DR Edmunds, M Hannon, KA Schoenecker. 2023. *PopEquus*: A Predictive Modeling Tool to Support Management Decisions for Free-roaming Horse Populations: U.S. Geological Survey software release, [https://doi.org/10.5066/P9NMRQDG](https://doi.org/10.5066/P9NMRQDG). [Web app](https://rconnect.usgs.gov/popequus/). Press Releases: [BLM](https://www.blm.gov/press-release/new-tool-models-future-wild-horses-public-lands), [USGS](https://www.usgs.gov/news/national-news-release/new-tool-models-future-wild-horses-public-lands)
 
