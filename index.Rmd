@@ -22,7 +22,7 @@ I currently work as an ecologist for the [U.S. Geological Survey](https://www.us
 
 On this site, you can learn about my [work interests](https://brianfolt.github.io/research), where my [projects occur](https://brianfolt.github.io/locations), and [products and publications ](https://brianfolt.github.io/publications) that have emerged from my work.
 
-You can contact me at: bfolt [at] usgs [dot] gov.
+You can contact me at: brian [dot] folt [at] gmail [dot] com.
 
 ```{r pictures, echo=FALSE}
 library(slickR)
