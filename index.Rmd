@@ -32,7 +32,7 @@ paths <- c(
   
   "images/indigo.jpg",
   "images/tigris_25mar18_1a.JPG",
-  "images/gather-pic-2.jpg",
+  "images/wild-horses-cropped.jpg",
 
   "images/glassfrog.jpg",
   "images/indigo-release.jpg",
@@ -44,7 +44,7 @@ paths <- c(
       
   "images/lascruces_27sep17.jpeg",
   "images/pocket-gopher.jpg",
-  "images/horses_cropped.jpg",
+  "images/gopher_tortoise.jpg",
     
   "images/spider-lizard.jpg",
   "images/supraciliaris.JPG",

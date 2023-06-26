@@ -28,15 +28,17 @@ Below are my publications and PDF reprints, and here is a link to my [Google Sch
 
 [v]	**B Folt**, C Guyer. Integrated population modeling reveals leaf-drop phenology effects on vertebrate population dynamics. In preparation.
 
-<img src="images/horses_cropped.JPG" style="width:20%; border:1px solid; margin-left: 15px" align="right">
-
 ### <u>2023</u>
 
 [24] **B Folt**, K Schoenecker, LS Ekernas. 2023. Multi-objective modeling as a decision-support tool for free-roaming horse management. *Human-Wildlife Interactions*, in press. [PDF](files/folt-et-al-2023-hwi.pdf) [Software](https://doi.org/10.5066/P9HRF1H9)
 
+<img src="images/wild-horses-cropped.JPG" style="width:20%; border:1px solid; margin-left: 15px" align="right">
+
 [Software] **B Folt**, LS Ekernas, DR Edmunds, M Hannon, KA Schoenecker. 2023. *PopEquus*: A Predictive Modeling Tool to Support Management Decisions for Free-roaming Horse Populations: U.S. Geological Survey software release, [https://doi.org/10.5066/P9NMRQDG](https://doi.org/10.5066/P9NMRQDG). [Web app](https://rconnect.usgs.gov/popequus/). Press Releases: [BLM](https://www.blm.gov/press-release/new-tool-models-future-wild-horses-public-lands), [USGS](https://www.usgs.gov/news/national-news-release/new-tool-models-future-wild-horses-public-lands)
 
 ### <u>2022</u>
+
+<img src="images/gopher_tortoise.jpg" style="width:20%; border:1px solid; margin-left: 15px" align="right">
 
 [23] **B Folt**, M Marshall, JA Emmanuel, M Dziadzio, J Cooke, L Mena, M Hinderlichter, S Hoffman, N Rankin, J Tupy, CP McGowan. 2022. Using predictions from multiple anthropogenic threats to estimate future population persistence of an imperiled species. *Global Ecology and Conservation* 36: e02143. [PDF](files/folt-et-al-2022-tortoise-pva.pdf) [DOI](https://doi.org/10.1016/j.gecco.2022.e02143) 
 
