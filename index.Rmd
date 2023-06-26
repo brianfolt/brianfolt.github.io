@@ -14,11 +14,13 @@ code.r{ /* Code block */ font-size: 12px;}
 pre { /* Code block - determines code spacing between lines */ font-size: 14px;}
 </style>
 
-<img src="images/me_amphiuma_2012.jpg" style="width:30%; border:2px solid; margin-right: 20px" align="left">
+<img src="images/brian-folt.jpg" style="width:30%; border:2px solid; margin-right: 20px" align="left">
 
 I am a **quantitative ecologist** and **wildlife biologist** who is interested in **supporting good decisions** in natural resource management. I combine field research, quantitative methods, and  structured-decision making skills to understand system dynamics and help support wildlife management decisions in a transparent and inclusive framework. I have a B.S. in [Biological Sciences from Ohio University](https://www.ohio.edu/cas/biology) (2011), a Ph.D. in [Ecology from Auburn University](http://www.auburn.edu/cosam/departments/biology/) (2017), and post-doctoral experience from the Alabama and Florida Cooperative Fish and Wildlife Research Units at [Auburn University](https://www1.usgs.gov/coopunits/unit/Alabama) and the [University of Florida](https://wec.ifas.ufl.edu/coop/). 
 
-I currently work as an ecologist for the [U.S. Geological Survey](https://www.usgs.gov/) at the [Fort Collins Science Center](https://www.usgs.gov/centers/fort), where I am building tools to support management decisions for wild horse populations in the United States. I recently developed [*PopEquus*](https://rconnect.usgs.gov/popequus/), a website application that can be used to simulate wild horse populations and help understand trade-offs among management alternatives.
+I previously worked as an ecologist for the [U.S. Geological Survey](https://www.usgs.gov/) at the [Fort Collins Science Center](https://www.usgs.gov/centers/fort), where I built models and tools to support management decisions for wild horse populations in the United States. A key product I developed was [*PopEquus*](https://rconnect.usgs.gov/popequus/), a website application that can simulate wild horse populations and help understand trade-offs among management alternatives.
+
+I currently am a Lead Scientist at [Conservation Science Partners](https://csp-inc.org). I will be working on science products to understand population dynamics and support management decisions for desert tortoises in the western United States.
 
 On this site, you can learn about my [work interests](https://brianfolt.github.io/research), where my [projects occur](https://brianfolt.github.io/locations), and [products and publications ](https://brianfolt.github.io/publications) that have emerged from my work.
 
@@ -28,18 +30,6 @@ You can contact me at: brian [dot] folt [at] gmail [dot] com.
 library(slickR)
 paths <- c(
   
-  "images/spider-lizard.jpg",
-  "images/supraciliaris.JPG",
-  "images/montanus.jpeg",
-  
-  "images/lascruces_27sep17.jpeg",
-  "images/pocket-gopher.jpg",
-  "images/horses_cropped.jpg",
-  
-  "images/bat.JPG",
-  "images/grouse.jpg",
-  "images/prep-tray.jpg",
-  
   "images/indigo.jpg",
   "images/tigris_25mar18_1a.JPG",
   "images/gather-pic-2.jpg",
@@ -47,6 +37,18 @@ paths <- c(
   "images/glassfrog.jpg",
   "images/indigo-release.jpg",
   "images/toucan_27sep17_1a.jpeg",
+  
+  "images/bat.JPG",
+  "images/grouse.jpg",
+  "images/prep-tray.jpg",
+      
+  "images/lascruces_27sep17.jpeg",
+  "images/pocket-gopher.jpg",
+  "images/horses_cropped.jpg",
+    
+  "images/spider-lizard.jpg",
+  "images/supraciliaris.JPG",
+  "images/montanus.jpeg",
 
   "images/caracara_9oct17_1b.JPG",
   "images/shoal-lily.jpeg",
