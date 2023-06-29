@@ -14,8 +14,7 @@ code.r{ /* Code block */ font-size: 12px;}
 pre { /* Code block - determines code spacing between lines */ font-size: 14px;}
 </style>
 
-<img src="images/gator-snapper.jpg" style="width:40%; border:2px solid; margin-left: 15px" align="right">
-
+<img src="images/me_amphiuma_2012.jpg" style="width:30%; border:2px solid; margin-left: 15px" align="right">
 
 I study animal populations from fundamental and applied perspectives. I conduct fundamental research that develops and tests hypotheses about how populations function, and then I work to understand how populations can be managed in ways that maximize important societal values, such as the preventing species extinction, maximizing ecosystem health, and reducing management cost.
 
