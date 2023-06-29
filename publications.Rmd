@@ -18,23 +18,25 @@ Below are my publications and PDF reprints, and here is a link to my [Google Sch
 
 ### <u>In the pipeline (availailable upon request)</u>
 
-[i]	**B Folt**, LS Ekernas, DR Edmunds, M Hannon, KA Schoenecker. *PopEquus*: a predictive modeling tool to support management decisions for free-roaming horse populations. In review. [Software](https://doi.org/10.5066/P9HVUA6D) [Web app](https://rconnect.usgs.gov/popequus/)
+[i] C Guyer, JM Goessling, **B Folt**. Annual and lifetime home ranges reveal movement patterns within and among local populations of gopher tortoises. In review.
 
-[ii] C Guyer, JM Goessling, **B Folt**. Annual and lifetime home ranges reveal movement patterns within and among local populations of gopher tortoises. In review.
+[ii]	AR Krohn, **B Folt**, JJ Apodaca, C Guyer, J Goessling. Using genomic data to estimate population structure and health for gopher tortoises. In review.
 
-[iii]	AR Krohn, **B Folt**, JJ Apodaca, C Guyer, J Goessling. Using genomic data to estimate population structure and health for gopher tortoises. In review.
+[iii] **B Folt**, K.A. Schoenecker, M. Crabb. Effects of geography, density, and fertility control treatment on wild horse population growth. In preparation.
 
-[iv] **B Folt**, K.A. Schoenecker, M. Crabb. Effects of geography, density, and fertility control treatment on wild horse population growth. In preparation.
-
-[v]	**B Folt**, C Guyer. Integrated population modeling reveals leaf-drop phenology effects on vertebrate population dynamics. In preparation.
+[iv]	**B Folt**, C Guyer. Integrated population modeling reveals leaf-drop phenology effects on vertebrate population dynamics. In preparation.
 
 ### <u>2023</u>
 
-[24] **B Folt**, K Schoenecker, LS Ekernas. 2023. Multi-objective modeling as a decision-support tool for free-roaming horse management. *Human-Wildlife Interactions*, in press. [PDF](files/folt-et-al-2023-hwi.pdf) [Software](https://doi.org/10.5066/P9HRF1H9)
-
 <img src="images/wild-horses-cropped.JPG" style="width:20%; border:1px solid; margin-left: 15px" align="right">
 
+[25]	**B Folt**, LS Ekernas, DR Edmunds, M Hannon, KA Schoenecker. 2023. *PopEquus*: a predictive modeling tool to support management decisions for free-roaming horse populations. *Ecosphere*, in press. [Software](https://doi.org/10.5066/P9HVUA6D) [Web app](https://rconnect.usgs.gov/popequus/)
+
+<img src="images/popequus.PNG" style="width:20%; border:1px solid; margin-left: 15px" align="right">
+
 [Software] **B Folt**, LS Ekernas, DR Edmunds, M Hannon, KA Schoenecker. 2023. *PopEquus*: A Predictive Modeling Tool to Support Management Decisions for Free-roaming Horse Populations: U.S. Geological Survey software release, [https://doi.org/10.5066/P9NMRQDG](https://doi.org/10.5066/P9NMRQDG). [Web app](https://rconnect.usgs.gov/popequus/). Press Releases: [BLM](https://www.blm.gov/press-release/new-tool-models-future-wild-horses-public-lands), [USGS](https://www.usgs.gov/news/national-news-release/new-tool-models-future-wild-horses-public-lands)
+
+[24] **B Folt**, K Schoenecker, LS Ekernas. 2023. Multi-objective modeling as a decision-support tool for free-roaming horse management. *Human-Wildlife Interactions*, in press. [PDF](files/folt-et-al-2023-hwi.pdf) [Software](https://doi.org/10.5066/P9HRF1H9)
 
 ### <u>2022</u>
 
