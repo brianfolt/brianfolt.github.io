@@ -61,6 +61,8 @@ I conduct research that has strong applications for wildlife management and cons
   - Effects of habitat fragmentation on population genetics of Gopher Tortoises (in preparation)
   
   - [*PopEquus*: a predictive modeling tool to understand tradeoffs in wild horse population management](https://rconnect.usgs.gov/popequus/)
+  
+  - [IUCN Red List Assessment for freshwater turtles in Central America](https://www.gob.mx/conabio/prensa/expertos-se-reuniran-en-mexico-para-evaluar-el-estado-de-conservacion-de-tortugas-mesoamericanas?idiom=es)
 </div>
 
 <div class="expand collapsed" data-toggle="collapse" data-target="#decisionanalysis" aria-expanded="false" aria-controls="decisionanalysis">
