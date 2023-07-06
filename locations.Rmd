@@ -22,9 +22,9 @@ Here are sites where my colleagues and I have developed projects in the field or
 
 ```{r leaflet, echo=FALSE}
 
-Name = c("Conecuh National Forest, Alabama","Yunnan Province, China","Lower Canyons of the Rio Grande","Blue Ridge Mountains","Spring Creek, Georgia","La Selva Biological Station, Costa Rica","Conger Mountain, Utah", "Choctawhatchee River, Florida", "Auburn University Museum of Natural History")
+Name = c("Conecuh National Forest, Alabama","Yunnan Province, China","Lower Canyons of the Rio Grande","Blue Ridge Mountains","Spring Creek, Georgia","La Selva Biological Station, Costa Rica","Conger Mountain, Utah", "Choctawhatchee River, Florida", "Auburn University Museum of Natural History", "Ciudad de Mexico")
 
-Topic = c("Field studies of Gopher Tortoise survival and population genetic structure; reintroduction of an endangered snake","Biodiversity surveys of reptiles and bats in karst caves","Formative wilderness adventure","Phylogenetic studies of salamanders","Demographic studies of Alligator Snapping Turtles","Field studies and experimental manipulations of frog and lizard population regulation","Feral horse demographic research","Studies of hybridizing freshwater turtles","Taxonomic and phylogenetic studies of amphibians and reptiles")
+Topic = c("Field studies of Gopher Tortoise survival and population genetic structure; reintroduction of an endangered snake","Biodiversity surveys of reptiles and bats in karst caves","Formative wilderness adventure","Phylogenetic studies of salamanders","Demographic studies of Alligator Snapping Turtles","Field studies and experimental manipulations of frog and lizard population regulation","Feral horse demographic research","Studies of hybridizing freshwater turtles","Taxonomic and phylogenetic studies of amphibians and reptiles", "IUCN Red List Assessment for freshwater turtles in Central America")
 
 coords <- read.csv(textConnection(
 "Lat,Long, 
@@ -36,7 +36,8 @@ coords <- read.csv(textConnection(
 10.425307, -84.017,
 39.232, -113.699,
 30.9869, -85.829722,
-32.599068, -85.482878"
+32.599068, -85.482878,
+19.4368, -99.1800"
 ))
 
 df = cbind(Name,Topic,coords)
