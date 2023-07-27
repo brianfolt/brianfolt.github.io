@@ -38,7 +38,7 @@ Below are my publications and PDF reprints, and here is a link to my [Google Sch
 
 ### <u>2022</u>
 
-[24] **B Folt**, K Schoenecker, LS Ekernas. 2022. Multi-objective modeling as a decision-support tool for free-roaming horse management. *Human-Wildlife Interactions*, in press. [PDF](files/folt-et-al-2023-hwi.pdf) [Software](https://doi.org/10.5066/P9HRF1H9)
+[24] **B Folt**, K Schoenecker, LS Ekernas. 2022. Multi-objective modeling as a decision-support tool for free-roaming horse management. *Human-Wildlife Interactions*. [PDF](files/folt-et-al-2022-hwi.pdf) [Software](https://doi.org/10.5066/P9HRF1H9)
 
 <img src="images/gopher_tortoise.jpg" style="width:20%; border:1px solid; margin-left: 15px" align="right">
 
