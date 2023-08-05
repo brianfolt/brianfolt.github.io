@@ -16,7 +16,7 @@ pre { /* Code block - determines code spacing between lines */ font-size: 14px;}
 
 <img src="images/me_amphiuma_2012.jpg" style="width:30%; border:2px solid; margin-left: 15px" align="right">
 
-I study **wild animal populations** from fundamental and applied perspectives. I conduct fundamental research that develops and tests **hypotheses** about how populations function, and then I work to understand how populations can be **managed** in ways that **maximize** important societal **values**, such as the preventing species extinction, maximizing ecosystem health, and reducing management cost.
+I study **wild animal populations** from fundamental and applied perspectives. I conduct fundamental research that develops and tests **hypotheses** about how populations function, and then I work to understand how populations can be **managed** in ways that **maximize** important societal **values**, such as preventing species extinction, maximizing ecosystem health, and reducing management cost.
 
 **Decision makers** in natural resource management are challenged by **complex decisions** with **great uncertainty**. To help navigate difficult decisions, I work with decision makers to use decision analysis tools (e.g., **structured decision making**) to improve shared understanding of problems, objectives, alternatives, and important trade-offs in the decision. This work often takes a **co-production** approach, where we work together as a group to understand the problem, build science products, and improve decision-support products in an iterative fashion. End products include **reports**, **science articles**, and dynamic **computer applications** that, for example, use predictive models to estimate how well alternatives might achieve different objectives during decisions.
 
@@ -52,9 +52,11 @@ Central to the challenge of horse population management is that horse population
 
 Populations with high survival, low recruitment rates, and long generation times (i.e., *K*-selected species) are often sensitive to and imperiled when humans influence adult survival. North American tortoises (*Gopherus* species) exemplify this challenge. Both the Gopher Tortoise (*G. polyphemus*) and Mojave Desert Tortoise (*G. agassizii*) have experienced large population declines and both species are listed as 'Threatened' under the U.S. Endangered Species Act. State and federal agencies (U.S. Fish and Wildlife Service; USFWS) require predictive models for tortoises (e.g., population viability analysis) that can assess current and future extinction risk and evaluate the consequences of management alternatives on future population conditions.
 
-<img src="images/jwm-cover.jpg" style="width:25%; border:2px solid; margin-left: 15px" align="right">
+<img src="images/tortoises.png" style="width:35%; border:2px solid; margin-left: 15px" align="right">
 
 I worked with the Alabama Dept. of Conservation and Natural Resources (ADCNR) to evaluate population viability of Gopher Tortoises in populations that experienced different landscape-scale management over a 30-year period. We found that when habitat was managed with prescribed fire to achieve open-canopy forest structure, small populations (20--30 individuals) were stable in population size over three decades, which refined our understanding of the species' minimum viable population size ([Folt et al. 2021](files/folt-et-al-2021-jwm.pdf)).
+
+<img src="images/tort_model.PNG" style="width:30%; border:2px solid; margin-left: 15px" align="right">
 
 To inform a Species Status Assessment for the Gopher Tortoise, the U.S. Fish and Wildlife Service required a regional-scale predictive model to understand the species' future population conditions under scenarios of climate warming, sea-level rise, urbanization, and varying habitat management. We evaluated range-wide population persistence and extinction risk and presented this information to decision makers during the species Reclassification under the ESA ([Folt et al. 2022](files/folt-et-al-2022-tortoise-pva.pdf)). Ultimately, the USFWS decided that the species' listing status did not require a change and the species remains 'Threatened'.
 
@@ -67,11 +69,11 @@ I am now working on a Department of Defense (DoD)-funded project to integrate lo
 </div>
 
 <div class="collapse" id="reintroduction">
-<img src="images/indigo.jpg" style="width:30%; border:2px solid; margin-left: 15px" align="right">
+<img src="images/indigo-release.jpg" style="width:35%; border:2px solid; margin-left: 15px" align="right">
 
 The Eastern Indigo Snake (*Drymarchon couperi*) is a federally 'Threatened' species under the Endangered Species Act that has experienced population declines throughout most of its range. The species is functionally extirpated in Alabama, Mississippi, and the Florida panhandle, and population re-establishment via reintroduction at improved habitats in Alabama and Florida was identified as an important recovery criterion in the U.S. Fish and Wildlife Service's Recover Plan for the species. A captive breeding colony was established at the Central Florida Zoo, and an expert committee was established to guide reintroduction efforts. However, experts needed information about how many individuals needed to be released at release sites to create self sustaining populations while maintaining positive growth of the captive population and minimizing cost. The decision maker for these efforts is the U.S. Fish and Wildlife Service (USFWS)
 
-<img src="images/indigo-release.jpg" style="width:30%; border:2px solid; margin-left: 15px" align="right">
+<img src="images/indigos.jpg" style="width:35%; border:2px solid; margin-left: 15px" align="right">
 
 As a post-doc, I worked with the expert committee and USFWS to co-produce a population model guiding reintroductions that evaluated the sensitivity of population viability to the release size (number of snakes), age (snake age class), and frequency (number of release years) ([Folt et al. 2019](files/folt-et-al-2019-animal-conservation.pdf)). The decision maker has attempted to follow these recommendations and efforts have seen signs of reintroduction success in recent years ([e.g., hatchling snakes!](https://www.outdooralabama.com/node/3479)).
 
