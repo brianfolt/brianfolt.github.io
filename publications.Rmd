@@ -24,7 +24,7 @@ Below are my publications and PDF reprints, and here is a link to my [Google Sch
 
 [iii] **B Folt**, KA Schoenecker, M Crabb. Effects of geography, density, and fertility control treatment on wild horse population growth. In preparation.
 
-[iv]	**B Folt**, C Guyer. Integrated population modeling reveals leaf-drop phenology effects on vertebrate population dynamics. In preparation.
+[iv] **B Folt**, C Guyer. Integrated population modeling reveals leaf-drop phenology effects on vertebrate population dynamics. In preparation.
 
 ### <u>2023</u>
 
@@ -127,9 +127,11 @@ Below are my publications and PDF reprints, and here is a link to my [Google Sch
 
 ### <u>Book chapters</u>
 
-**B Folt**. 2021. Eastern Fence Lizard *Sceloporus undulatus*. Pp. 335–344 in JG Davis, GJ Lipps Jr, D Wynn, BK Armitage, TO Matson, RA Pfingsten, C Caldwell (eds). Reptiles of Ohio. Ohio Biological Survey Bulletin New Series 20(1), 1112 pg.
+[3] **B Folt**, PP van Dijk, A Rhodin. IUCN Red List Assessment for *Rhinoclemmys funerea*. In preparation.
 
-**B Folt**, JG Davis. 2013. Blanchard’s Cricket Frog *Acris blanchardi* (Harper 1947). In: R Pfingsten, JG Davis, TO Matson, G Lipps Jr., D Wynn, BJ Armitage (eds) *Amphibians of Ohio*. Ohio Biological Survey Bulletin New Series 17(1).
+[2] **B Folt**. 2021. Eastern Fence Lizard *Sceloporus undulatus*. Pp. 335–344 in JG Davis, GJ Lipps Jr, D Wynn, BK Armitage, TO Matson, RA Pfingsten, C Caldwell (eds). Reptiles of Ohio. Ohio Biological Survey Bulletin New Series 20(1), 1112 pg.
+
+[1] **B Folt**, JG Davis. 2013. Blanchard’s Cricket Frog *Acris blanchardi* (Harper 1947). In: R Pfingsten, JG Davis, TO Matson, G Lipps Jr., D Wynn, BJ Armitage (eds) *Amphibians of Ohio*. Ohio Biological Survey Bulletin New Series 17(1).
 
 <img src="images/amphibians-ohio.jpg" style="width:15%; border:1px solid; margin-left: 15px" align="right">
  

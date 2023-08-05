@@ -20,7 +20,7 @@ I am a **quantitative ecologist** and **wildlife biologist** who is interested i
 
 I previously worked as an **Ecologist** for the [U.S. Geological Survey](https://www.usgs.gov/) at the [Fort Collins Science Center](https://www.usgs.gov/centers/fort), where I built models and tools to support management decisions for wild horse populations in the United States. A key product I developed was [*PopEquus*](https://rconnect.usgs.gov/popequus/), a website application that can simulate wild horse populations and help understand trade-offs among management alternatives.
 
-I currently am a **Lead Scientist** at [Conservation Science Partners](https://csp-inc.org). I will be working on science products to understand population dynamics and support management decisions for desert tortoises in the western United States.
+I currently am a **Lead Scientist** at [Conservation Science Partners](https://csp-inc.org). In this role, I am working to develop science products to understand population dynamics and support management decisions for Mojave desert tortoises in the western United States. We are using a **co-production** approach to iteratively engage experts, stakeholders, and land managers while building products, so that they will be **useful** for management decisions.
 
 On this site, you can learn about my [work interests](https://brianfolt.github.io/research), where my [projects occur](https://brianfolt.github.io/locations), and [products and publications ](https://brianfolt.github.io/publications) that have emerged from my work.
 

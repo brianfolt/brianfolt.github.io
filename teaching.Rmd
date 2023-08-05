@@ -1,11 +1,6 @@
 ---
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-library(vembedr); library(htmltools); library(leaflet)
-```
-
 <link rel="stylesheet" href="styles.css" type="text/css">
 
 <style type="text/css">
@@ -23,7 +18,9 @@ pre { /* Code block - determines code spacing between lines */ font-size: 14px;}
 
 <img src="images/SSA200small.jpg" style="width:40%; border:2px solid; margin-left: 15px" align="right">
 
-To understand and conserve wildlife on Earth, we must generate interest in nature within future generations, while also providing young scientists and professionals with the knowledge and practical skills necessary to conserve it. I work to accomplish these goals through education at multiple levels. I teach students at the collegiate level to foster student interest, provide foundational knowledge, and cultivate critical thinking skills. I also teach professional conservation practitioners from state and federal agencies the analytical skills necessary to perform risk assessments for imperiled species. Last, I engage in outreach at multiple scales to educate and increase interest in nature among the public. By fostering a strong conservation ethic through education, I believe that teaching is one of my strongest tools to not only help better understand biodiversity on Earth, but also to conserve it. On this page, you can read about educational formats I use to teach ecology and conservation biology. 
+To understand and conserve wildlife on Earth, we must generate interest in nature within future generations, while also providing young scientists and professionals with the knowledge and practical skills necessary to conserve it. I work to accomplish these goals through education at multiple levels. I teach students at the collegiate level to foster student interest, provide foundational knowledge, and cultivate critical thinking skills. I also teach professional conservation practitioners from state and federal agencies the analytical skills necessary to perform risk assessments for imperiled species. Last, I engage in outreach at multiple scales to educate and increase interest in nature among the public. By fostering a strong conservation ethic through education, I believe that teaching is one of my strongest tools to not only help better understand biodiversity on Earth, but also to conserve it. 
+
+Click on **bold links** below to read about educational formats I use to teach ecology and conservation biology.
 
 <div class="expand collapsed" data-toggle="collapse" data-target="#college" aria-expanded="false" aria-controls="college">
 ### **College classes**
