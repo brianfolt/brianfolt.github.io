@@ -16,13 +16,13 @@ pre { /* Code block - determines code spacing between lines */ font-size: 14px;}
 
 <img src="images/me_amphiuma_2012.jpg" style="width:30%; border:2px solid; margin-left: 15px" align="right">
 
-I study **wild animal populations** from fundamental and applied perspectives. I conduct fundamental research that develops and tests **hypotheses** about how populations function, and then I work to understand how populations can be **managed** in ways that **maximize** important societal **values**, such as preventing species extinction, maximizing ecosystem health, and reducing management cost.
+I study **wild animal populations** from fundamental and applied perspectives. I conduct fundamental research that tests **hypotheses** about how populations function, and then I work to understand how populations can be **managed** in ways that **maximizes** important societal **values**, such as preventing species extinction, maximizing ecosystem health, and reducing management cost.
 
 **Decision makers** in natural resource management are challenged by **complex decisions** with **great uncertainty**. To help navigate difficult decisions, I work with decision makers to use decision analysis tools (e.g., **structured decision making**) to improve shared understanding of problems, objectives, alternatives, and important trade-offs in the decision. This work often takes a **co-production** approach, where we work together as a group to understand the problem, build science products, and improve decision-support products in an iterative fashion. End products include **reports**, **science articles**, and dynamic **computer applications** that, for example, use predictive models to estimate how well alternatives might achieve different objectives during decisions.
 
-My work is **collaborative** in nature and I rely on diverse **teams** of students, post-docs, scientists, cooperating experts, and decision makers. Together, we create well-rounded teams that work together to understand problems, build products, and communicate **actionable science** to decision makers.
+My work is **collaborative** in nature and I rely on diverse **teams** of students, post-docs, scientists, cooperating experts, and decision makers. Together, we create well-rounded teams that work collaboratively to understand problems, build products, and communicate **actionable science** to decision makers.
 
-Click on the **bold topics** below to explore a few '**Case Studies**' highlighting how my work has supported management decisions for endangered species and ecosystems.
+Click on the **bold topics** below to toggle '**Case Studies**' describing examples of my work.
 
 <div class="expand collapsed" data-toggle="collapse" data-target="#horses" aria-expanded="false" aria-controls="horses">
 ### **Wild Horse Management**
