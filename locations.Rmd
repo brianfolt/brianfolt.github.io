@@ -18,7 +18,7 @@ h3 { /* Header 3 */ font-size: 18px; color: Black;}
 code.r{ /* Code block */ font-size: 12px;}
 pre { /* Code block - determines code spacing between lines */ font-size: 14px;}
 </style>
-Here are sites where my colleagues and I have developed projects in the field or in the office. The map is still under-construction; check back in the future for project descriptions and pictures.
+Here are sites where my colleagues and I have developed projects in the field or in the office.
 
 ```{r leaflet, echo=FALSE}
 
@@ -49,10 +49,10 @@ labs <- lapply(seq(nrow(df)), function(i) {
 
 leaflet(df) %>% addTiles() %>%
   addMarkers(~Long, ~Lat, label = lapply(labs, htmltools::HTML)) %>%
-  addProviderTiles(providers$OpenMapSurfer.Roads)
+  addProviderTiles(providers$Esri.NatGeoWorldMap)
 ```
 
-Here are videos from some favorite field excursions - for research or just for fun.  
+Here are videos from some favorite field excursions - for research, or just for fun.  
 
 ```{r library(vembedr), echo=FALSE}
 embed_vimeo("152795925")
