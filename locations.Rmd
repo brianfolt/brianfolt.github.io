@@ -18,7 +18,7 @@ h3 { /* Header 3 */ font-size: 18px; color: Black;}
 code.r{ /* Code block */ font-size: 12px;}
 pre { /* Code block - determines code spacing between lines */ font-size: 14px;}
 </style>
-Here are sites where my colleagues and I have developed projects in the field or in the office.
+Here are sites where my colleagues and I have developed projects to learn about animal populations.
 
 ```{r leaflet, echo=FALSE}
 
