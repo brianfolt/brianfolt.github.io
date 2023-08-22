@@ -1,4 +1,11 @@
 ---
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
 ---
 
 <link rel="stylesheet" href="styles.css" type="text/css">
@@ -24,8 +31,14 @@ My work is **collaborative** in nature and I rely on diverse **teams** of studen
 
 Click on the **bold topics** below to toggle '**Case Studies**' describing examples of my work.
 
+
+
+
 <div class="expand collapsed" data-toggle="collapse" data-target="#horses" aria-expanded="false" aria-controls="horses">
-### **Wild Horse Management**
+<div style="background-color:rgba(0, 0, 0, 0.0470588); padding:0px 12px;">
+<a style="color:black">
+<font size="4"> **Wild Horse Management** </font>
+</a>
 </div>
 
 <div class="collapse" id="horses">
@@ -44,7 +57,10 @@ Central to the challenge of horse population management is that horse population
 </div>
 
 <div class="expand collapsed" data-toggle="collapse" data-target="#tortoise" aria-expanded="false" aria-controls="tortoise">
-### **Endangered Species Risk Assessments**
+<div style="background-color:rgba(0, 0, 0, 0.0470588); padding:0px 12px;">
+<a style="color:black">
+<font size="4"> **Endangered Species Risk Assessments** </font>
+</a>
 </div>
 
 <div class="collapse" id="tortoise">
@@ -65,7 +81,10 @@ I am now working on a Department of Defense (DoD)-funded project to integrate lo
 </div>
 
 <div class="expand collapsed" data-toggle="collapse" data-target="#reintroduction" aria-expanded="false" aria-controls="reintroduction">
-### **Wildlife Reintroductions**
+<div style="background-color:rgba(0, 0, 0, 0.0470588); padding:0px 12px;">
+<a style="color:black">
+<font size="4"> **Wildlife Reintroductions** </font>
+</a>
 </div>
 
 <div class="collapse" id="reintroduction">
@@ -82,11 +101,16 @@ The USFWS reintroduction plan suddenly came under fire when a genetic study was 
 </div>
 
 <div class="expand collapsed" data-toggle="collapse" data-target="#decisionanalysis" aria-expanded="false" aria-controls="decisionanalysis">
-### **Decision Analysis**
+<div style="background-color:rgba(0, 0, 0, 0.0470588); padding:0px 12px;">
+<a style="color:black">
+<font size="4"> **Decision Analysis** </font>
+</a>
 </div>
 
 <div class="collapse" id="decisionanalysis">
 <img src="images/horses_cropped.JPG" style="width:25%; border:1px solid; margin-left: 15px" align="right">
+
 Decision makers in natural resource management are faced with complex problems with multiple stakeholders, competing objectives, considerable uncertainty, and limited budgets. I help decision makers navigate problems using values-focused decision analysis (e.g., structured decision making), facilitated meetings, and/or analytical methods to understand trade-offs and evaluate the strength of alternatives ([Lawson et al. 2021](files/lawson-et-al-2021-conbio.pdf), [Folt et al. 2022](files/Folt-et-al-inpress.pdf)).
 
 </div>
+

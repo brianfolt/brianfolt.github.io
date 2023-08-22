@@ -23,7 +23,10 @@ To understand and conserve wildlife on Earth, we must generate interest in natur
 Click on **bold links** below to drop-down information about educational formats I use to teach ecology and conservation biology.
 
 <div class="expand collapsed" data-toggle="collapse" data-target="#college" aria-expanded="false" aria-controls="college">
-### **College classes**
+<div style="background-color:rgba(0, 0, 0, 0.0470588); padding:0px 12px;">
+<a style="color:black">
+<font size="4"> **College Classes** </font>
+</a>
 </div>
 
 <div class="collapse" id="college">
@@ -42,7 +45,10 @@ I have taught laboratory and field courses in both Vertebrate Biodiversity and H
 
 
 <div class="expand collapsed" data-toggle="collapse" data-target="#ssa" aria-expanded="false" aria-controls="ssa">
-### **Risk assessments for imperiled species**
+<div style="background-color:rgba(0, 0, 0, 0.0470588); padding:0px 12px;">
+<a style="color:black">
+<font size="4"> **Risk Assessments for Endangered Species** </font>
+</a>
 </div>
 
 <div class="collapse" id="ssa">
