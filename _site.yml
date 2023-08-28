@@ -19,7 +19,7 @@ navbar:
     - icon: fab fa-github fa-lg
       href: http://github.com/brianfolt
     - icon: fab fa-twitter fa-lg
-      href: https://twitter.com/brianf0lt
+      href: https://twitter.com/brian_folt
   
 output:
   html_document:
