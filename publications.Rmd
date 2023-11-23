@@ -121,7 +121,7 @@ Below are my publications and PDF reprints, and here is a link to my [Google Sch
 <img src="images/ccb-cover.jpg" style="width:15%; border:1px solid; margin-left: 15px" align="right">
 [2] **B Folt**, JC Godwin. 2013. Status of the Alligator Snapping Turtle (*Macrochelys temminckii*) in south Alabama with comments on its distribution. *Chelonian Conservation and Biology* 12(2): 211–217. [PDF](files/folt-godwin-2013-macrochelys.pdf)  [DOI](http://dx.doi.org/10.2744/CCB-1036.1)
 
-[1] **B Folt**, KE Reider. 2013. Leaf-litter herpetofaunal richness, abundance, and community assembly in mono-dominant plantations and primary forest of northeastern Costa Rica. *Biodiversity and Conservation* 22(9): 2057–2070. [PDF](files/folt-reider-2013.pdf)  [DOI](http://dx.doi.org/10.1007/s10531-013-0526-0)
+[1] **B Folt**, KE Reider. 2013. Leaf-litter herpetofaunal richness, abundance, and community assembly in mono-dominant plantations and primary forest of northeastern Costa Rica. *Biodiversity and Conservation* 22(9): 2057–2070. [PDF](files/folt-reider-2013-biodivconserv.pdf)  [DOI](http://dx.doi.org/10.1007/s10531-013-0526-0)
 
 <img src="images/reptiles-ohio.png" style="width:15%; border:1px solid; margin-left: 15px" align="right">
 
