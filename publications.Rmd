@@ -123,11 +123,13 @@ Below are my publications and PDF reprints, and here is a link to my [Google Sch
 
 [1] **B Folt**, KE Reider. 2013. Leaf-litter herpetofaunal richness, abundance, and community assembly in mono-dominant plantations and primary forest of northeastern Costa Rica. *Biodiversity and Conservation* 22(9): 2057–2070. [PDF](files/folt-reider-2013-biodivconserv.pdf)  [DOI](http://dx.doi.org/10.1007/s10531-013-0526-0)
 
-<img src="images/reptiles-ohio.png" style="width:15%; border:1px solid; margin-left: 15px" align="right">
-
 ### <u>Book chapters</u>
 
-[3] **B Folt**, PP van Dijk, A Rhodin, R Such. IUCN Red List Assessment for *Rhinoclemmys funerea*. In preparation.
+[3] RGJ Rhodin, BY Villegas-Raygoza, **B Folt**, RA Mittermaier. 2024. IUCN Red List Assessment for *Kinosternon angustipons*. In press.
+
+<img src="images/reptiles-ohio.png" style="width:15%; border:1px solid; margin-left: 15px" align="right">
+
+[3] **B Folt**, PP van Dijk, A Rhodin, R Such. 2024 IUCN Red List Assessment for *Rhinoclemmys funerea*. In press.
 
 [2] **B Folt**. 2021. Eastern Fence Lizard *Sceloporus undulatus*. Pp. 335–344 in JG Davis, GJ Lipps Jr, D Wynn, BK Armitage, TO Matson, RA Pfingsten, C Caldwell (eds). Reptiles of Ohio. Ohio Biological Survey Bulletin New Series 20(1), 1112 pg.
 
