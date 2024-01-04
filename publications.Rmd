@@ -18,15 +18,17 @@ Below are my publications and PDF reprints, and here is a link to my [Google Sch
 
 ### <u>In the pipeline (availailable upon request)</u>
 
-[i] AR Krohn, **B Folt**, JJ Apodaca, C Guyer, J Goessling. Using genomic data to estimate population structure and health for gopher tortoises. In review.
+[i] **B Folt**, M Crabb, KA Schoenecker. Wild horse population growth rates across the western United States. In preparation.
 
-[ii] **B Folt**, M Crabb, KA Schoenecker. Wild horse population growth rates across the western United States. In preparation.
+[ii] **B Folt**, C Guyer. Integrated population modeling reveals leaf-drop phenology effects on vertebrate population dynamics. In preparation.
 
-[iii] **B Folt**, C Guyer. Integrated population modeling reveals leaf-drop phenology effects on vertebrate population dynamics. In preparation.
+### <u>2024</u>
 
-### <u>2023</u>
+[27] AR Krohn, **B Folt**, JJ Apodaca, C Guyer, J Goessling. Using genomic data to estimate population structure and health for gopher tortoises. *Conservation Genetics*, in press.
 
 [26] C Guyer, JM Goessling, **B Folt**. Annual and lifetime home ranges reveal movement patterns within and among local populations of gopher tortoises. *Chelonian Conservation and Biology*, in press.
+
+### <u>2023</u>
 
 <img src="images/wild-horses-cropped.JPG" style="width:20%; border:1px solid; margin-left: 15px" align="right">
 
@@ -125,7 +127,7 @@ Below are my publications and PDF reprints, and here is a link to my [Google Sch
 
 ### <u>Book chapters</u>
 
-[3] RGJ Rhodin, BY Villegas-Raygoza, **B Folt**, RA Mittermaier. 2024. IUCN Red List Assessment for *Kinosternon angustipons*. In press.
+[4] RGJ Rhodin, BY Villegas-Raygoza, **B Folt**, RA Mittermaier. 2024. IUCN Red List Assessment for *Kinosternon angustipons*. In press.
 
 <img src="images/reptiles-ohio.png" style="width:15%; border:1px solid; margin-left: 15px" align="right">
 
