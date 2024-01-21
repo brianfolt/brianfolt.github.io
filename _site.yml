@@ -13,6 +13,8 @@ navbar:
       href: locations.html
     - text: "Publications"
       href: publications.html
+    - text: "Tools"
+      href: tortoise_pva_shiny.Rmd
   right: 
     - icon: fab fa-google fa-lg
       href: https://scholar.google.com/citations?hl=en&user=wYb92bAAAAAJ
