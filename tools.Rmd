@@ -18,11 +18,15 @@ I work to provide useful tools to wildlife managers and decision makers. Here I 
 
 # *PopEquus*
 
+<img src="images/wild-horses-cropped.jpg" style="width:35%; border:2px solid; margin-left: 15px" align="right">
+
 To help decision makers understand trade-offs among alternatives, I worked with staff from the BLM Wild Horse and Burro Program to co-produce [*PopEquus*](https://rconnect.usgs.gov/popequus/), an online simulation tool for wild horse population management. Users can specify features of a horse population (e.g., population growth rate) and simulate 19 management alternatives in a customizable, user-friendly interface that graphs predicted outcomes related to important metrics. *PopEquus* is being used by wildlife managers to support management decisions for populations of wild horses and burros across the West, which have important consequences for the management of many sensitive ecosystems.
 
 # Tortoise PVA Tool
 
-Gopher tortoises (*Gopherus polyphemus*) are an imperiled keystone species in the southeastern United States. Population viability analyses often predict that demographic vital rates for populations are insufficient to support population stability and instead predict population declines and high extinction risk. However, survival rates used in these models often are from studies of 'apparent survival' that underestimate true survival. I built a flexible [population viability analysis tool](https://brianfolt.github.io/tortoise_population_viability/) for gopher tortoises where users can specify stage-specific survival rates, maturity age, and reproductive rates and make predictions about future population trends and extinction risk. The tool can be used to model populations of tortoises from, for example, Alabama, that have slow growth, late maturation, and low fecundity. Or, it can be revised to model fast-growing, early maturing, highly fecund tortoises from southern Florida. It is slow to load.
+<img src="images/gopher_tortoise.jpg" style="width:30%; border:2px solid; margin-left: 15px" align="right">
+
+Gopher tortoises (*Gopherus polyphemus*) are an imperiled keystone species in the southeastern United States. Population viability analyses often predict that demographic vital to cause population declines and high extinction risk. However, survival rates in most models have relied on estimates of 'apparent survival' that underestimate true survival. I built a flexible [population viability analysis tool](https://brianfolt.github.io/tortoise_population_viability/) for gopher tortoises where users can specify stage-specific survival rates, maturity age, and reproductive rates and make predictions about future population trends and extinction risk. The tool can model populations that have slow growth, late maturation, and low fecundity (e.g., from Alabama) or fast-growing, early maturing, highly fecund tortoises (e.g., southern Florida). It is slow to load. It is slow to load.
 
 
 ```{r pictuures, echo=FALSE}
