@@ -30,6 +30,10 @@ Click on **bold links** below to drop-down information about educational formats
 </div>
 
 <div class="collapse" id="college">
+**Graduate Environmental Statistics**
+
+I am teaching a graduate course in environmental statistics (NRES 710) at University of Nevada, Reno in the fall of 2024. The course website for the class is: [https://brianfolt.github.io/NRES_710/](https://brianfolt.github.io/NRES_710/).
+
 **Tropical Ecology**
 
 <img src="images/lascruces_27sep17.jpeg" style="width:40%; border:2px solid; margin-left: 15px" align="right">
