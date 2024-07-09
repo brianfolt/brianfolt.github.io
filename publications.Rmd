@@ -16,7 +16,7 @@ pre { /* Code block - determines code spacing between lines */ font-size: 14px;}
 
 Below are my publications and PDF reprints, and here is a link to my [Google Scholar](https://scholar.google.com/citations?user=wYb92bAAAAAJ&hl=en&oi=ao). Peer-reviewed publications are listed numerically and ordered by year. Carets (^) indicate undergraduate students that I mentored. 
 
-### <u>In the pipeline (availailable upon request)</u>
+### <u>In preparation (draft availailable upon request)</u>
 
 [i] **B Folt**, M Crabb, KA Schoenecker. Factors influencing wild horse population growth rates across the western United States. In preparation.
 
@@ -33,15 +33,15 @@ Below are my publications and PDF reprints, and here is a link to my [Google Sch
 
 ### <u>2024</u>
 
-[27] C Guyer, JM Goessling, **B Folt**. Annual and lifetime home ranges reveal movement patterns within and among local populations of gopher tortoises. *Chelonian Conservation and Biology* 23(1):81--91. [DOI](https://doi.org/10.2744/CCB-1603.1) [PDF](files/guyer-et-al-2024-tortoises-CCB.pdf)
+[27] C Guyer, JM Goessling, **B Folt**. Annual and lifetime home ranges reveal movement patterns within and among local populations of gopher tortoises. *Chelonian Conservation and Biology* 23(1):81--91. [PDF](files/guyer-et-al-2024-tortoises-CCB.pdf) [DOI](https://doi.org/10.2744/CCB-1603.1)
 
-[26] AR Krohn, **B Folt**, JJ Apodaca, C Guyer, J Goessling. 2024. Using genomic data to estimate population structure and health for gopher tortoises. *Conservation Genetics* 25:755--770. [DOI](https://doi.org/10.1007/s10592-024-01601-1) [PDF](files/krohn_et_al_2024_tortoises.pdf) 
+[26] AR Krohn, **B Folt**, JJ Apodaca, C Guyer, J Goessling. 2024. Using genomic data to estimate population structure and health for gopher tortoises. *Conservation Genetics* 25:755--770. [PDF](files/krohn_et_al_2024_tortoises.pdf) [DOI](https://doi.org/10.1007/s10592-024-01601-1)
 
 ### <u>2023</u>
 
 <img src="images/wild-horses-cropped.JPG" style="width:20%; border:1px solid; margin-left: 15px" align="right">
 
-[25]	**B Folt**, KA Schoenecker, LS Ekernas, DR Edmunds, M Hannon. 2023. *PopEquus*: a predictive modeling tool to support management decisions for free-roaming horse populations. *Ecosphere* e4632. [DOI](https://doi.org/10.1002/ecs2.4632) - [PDF](files/folt-et-al-2023-ecosphere.pdf) - [Software](https://doi.org/10.5066/P9HVUA6D) - [Application](https://rconnect.usgs.gov/popequus/)
+[25]	**B Folt**, KA Schoenecker, LS Ekernas, DR Edmunds, M Hannon. 2023. *PopEquus*: a predictive modeling tool to support management decisions for free-roaming horse populations. *Ecosphere* e4632. [PDF](files/folt-et-al-2023-ecosphere.pdf) - [DOI](https://doi.org/10.1002/ecs2.4632) - [Software](https://doi.org/10.5066/P9HVUA6D) - [Application](https://rconnect.usgs.gov/popequus/)
 
 <img src="images/popequus.PNG" style="width:20%; border:1px solid; margin-left: 15px" align="right">
 
