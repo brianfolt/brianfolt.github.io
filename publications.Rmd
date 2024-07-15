@@ -28,7 +28,6 @@ Below are my publications and PDF reprints, and here is a link to my [Google Sch
 
 [iv] SJ Hromada, **B Folt**, A Collins, J Dougherty, LJ Allison, KK Drake, TC Esque, J Freilich, JE Lovich, AM McLuckie, CI Mitchell, KE Nussear, K Shoemaker, MS Vamstad, AG Vandergast, MA Walden, BG Dickson. An integrated survival model improves inference about historical patterns of survival in the Mojave desert tortoise. In preparation.
 
-
 <img src="images/tort_genetics.png" style="width:20%; border:1px solid; margin-left: 15px" align="right">
 
 ### <u>2024</u>
